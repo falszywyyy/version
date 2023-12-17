@@ -1,4 +1,8 @@
 {
-    "version": "2.0.1",
-    "descriptions": []
+    "version": "2.0.2",
+    "descriptions": [
+        "Added sound notification after dispatch message",
+        "Added compatibility with Zerio Invoices (Beta)",
+        "Fixed Convoy and Heist tab units reset"
+    ]
 }
