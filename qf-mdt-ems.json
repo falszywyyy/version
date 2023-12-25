@@ -1,8 +1,9 @@
 {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "descriptions": [
-        "Added sound notification after dispatch message",
-        "Added compatibility with Zerio Invoices (Beta)",
-        "Fixed Convoy and Heist tab units reset"
+        "Fixed some translations errors",
+        "Fixed stateBag hours system",
+        "Fixed compatibility with bcs_companyManager",
+        "Fixed compatibility with zerio_invoices"
     ]
 }
