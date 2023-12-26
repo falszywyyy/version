@@ -1,7 +1,10 @@
 {
-    "version": "2.0.4",
+    "version": "2.1.0",
     "descriptions": [
+        "Completly rewritten Sounds system (Beta)",
         "Completly rewritten Event system (Beta)",
+        "Added ability to use custom sounds to Dispatch Alerts",
+        "Server-Side optimization for all players",
         "Fixed some translations errors",
         "Fixed stateBag hours system",
         "Fixed compatibility with bcs_companyManager",
