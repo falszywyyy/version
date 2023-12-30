@@ -1,13 +1,6 @@
 {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "descriptions": [
-        "Completly rewritten Sounds system (Beta)",
-        "Completly rewritten Events system (Beta)",
-        "Added ability to use custom sounds to Dispatch Alerts",
-        "Server-Side optimization for all players",
-        "Fixed some translations errors",
-        "Fixed stateBag hours system",
-        "Fixed compatibility with bcs_companyManager",
-        "Fixed compatibility with zerio_invoices"
+        "Added compatibility with nolag_properties"
     ]
 }
