@@ -1,6 +1,10 @@
 {
-    "version": "2.1.2",
+    "version": "2.1.3",
     "descriptions": [
-        "Added compatibility with CodeM Banking"
+        "Fixed dutyTime stateBag",
+        "Added ability to use blips for dispatch notifications",
+        "Added compatibility with road_phone (Beta)",
+        "Improved code content on the serverside",
+        "Fixed other minor issues"
     ]
 }
