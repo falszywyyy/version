@@ -1,10 +1,12 @@
 {
-    "version": "2.1.3",
+    "version": "2.1.4",
     "descriptions": [
-        "Fixed dutyTime stateBag",
-        "Added ability to use blips for dispatch notifications",
-        "Added compatibility with road_phone (Beta)",
-        "Improved code content on the serverside",
+        "The billing system has been rewritten",
+        "Added compatibility with Quasar Smartphone Pro",
+        "Added compatibility with Y-Flip Smartphone",
+        "Added compatibility with esx_billing",
+        "Added compatibility with rcore_dispatch (Beta)",
+        "Improved display of gender of citizens",
         "Fixed other minor issues"
     ]
 }
