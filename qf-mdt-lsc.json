@@ -1,12 +1,12 @@
 {
-    "version": "2.1.4",
+    "version": "2.1.5",
     "descriptions": [
-        "The billing system has been rewritten",
-        "Added compatibility with Quasar Smartphone Pro",
-        "Added compatibility with Y-Flip Smartphone",
-        "Added compatibility with esx_billing",
-        "Added compatibility with rcore_dispatch (Beta)",
-        "Improved display of gender of citizens",
+        "Rewritten and fixed gender system",
+        "Rewritten licenses and added customizations for them",
+        "Added full compatibility with esx_billing",
+        "Added compatibility with qb_banking (Beta)",
+        "Fixed qb_phone error with getting phone number",
+        "Fixed error with Dispatch Alerts included cars",
         "Fixed other minor issues"
     ]
 }
