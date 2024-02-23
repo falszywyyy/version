@@ -1,12 +1,13 @@
 {
-    "version": "2.1.5",
+    "version": "2.1.6",
     "descriptions": [
-        "Rewritten and fixed gender system",
-        "Rewritten licenses and added customizations for them",
-        "Added full compatibility with esx_billing",
-        "Added compatibility with qb_banking (Beta)",
-        "Fixed qb_phone error with getting phone number",
-        "Fixed error with Dispatch Alerts included cars",
-        "Fixed other minor issues"
+        "Improved GetRadio function",
+        "Improved GetTime function",
+        "Fixed GetOwner function at QB",
+        "Fixed Radio ID refreshing in Police / Medic / Mechanic List",
+        "Added Config.WeaponBlacklist for Shooting alerts",
+        "Added Beta compatibility for ps_dispatch",
+        "Added Beta NPWD phone compatibility",
+        "Rewritten compatibility for rcore_dispatch"
     ]
 }
