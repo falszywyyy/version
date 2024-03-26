@@ -1,13 +1,13 @@
 {
-    "version": "2.1.6",
+    "version": "2.1.7",
     "descriptions": [
-        "Improved GetRadio function",
-        "Improved GetTime function",
-        "Fixed GetOwner function at QB",
-        "Fixed Radio ID refreshing in Police / Medic / Mechanic List",
-        "Added Config.WeaponBlacklist for Shooting alerts",
-        "Added Beta compatibility for ps_dispatch",
-        "Added Beta NPWD phone compatibility",
-        "Rewritten compatibility for rcore_dispatch"
+        "Improved duty time",
+        "Improved reset duty time",
+        "Improved esx_billing method",
+        "Added support for qb_prison",
+        "Added support for brutal_policejob",
+        "Added support for brutal_prison",
+        "Added support for quasar_billing",
+        "Rewritten citizen data"
     ]
 }
