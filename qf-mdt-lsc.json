@@ -1,13 +1,11 @@
 {
-    "version": "2.1.7",
+    "version": "2.1.8",
     "descriptions": [
-        "Improved duty time",
-        "Improved reset duty time",
-        "Improved esx_billing method",
-        "Added support for qb_prison",
-        "Added support for brutal_policejob",
-        "Added support for brutal_prison",
-        "Added support for quasar_billing",
-        "Rewritten citizen data"
+        "Rewritten GetRadio function",
+        "Rewritten GetTime function",
+        "Rewritten GetBadge function",
+        "Change logs Player ID to Player Name",
+        "Added Beta compatibility for pma_voice",
+        "Added Beta compatibility for cs_billing"
     ]
 }
