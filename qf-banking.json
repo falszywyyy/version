@@ -1,4 +1,7 @@
 {
-    "version": "2.1.0",
-    "descriptions": []
+    "version": "2.1.1",
+    "descriptions": [
+        "Fixed some translations problems",
+        "Minor code fixes"
+    ]
 }
