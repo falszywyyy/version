@@ -1,11 +1,9 @@
 {
-    "version": "2.1.8",
+    "version": "2.2.0",
     "descriptions": [
-        "Rewritten GetRadio function",
-        "Rewritten GetTime function",
-        "Rewritten GetBadge function",
-        "Change logs Player ID to Player Name",
-        "Added Beta compatibility for pma_voice",
-        "Added Beta compatibility for cs_billing"
+        "Fixed issues with images",
+        "Fixed hour loading for each worker in job list",
+        "Fixes hour display in homepage",
+        "Added refreshing function of radio channel in job list"
     ]
 }
