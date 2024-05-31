@@ -1,9 +1,7 @@
 {
-    "version": "2.2.0",
+    "version": "2.2.1",
     "descriptions": [
-        "Fixed issues with images",
-        "Fixed hour loading for each worker in job list",
-        "Fixes hour display in homepage",
-        "Added refreshing function of radio channel in job list"
+        "Fixed QBCore common errors",
+        "Optimalization of code"
     ]
 }
