@@ -1,7 +1,10 @@
 {
-    "version": "2.2.1",
+    "version": "2.2.2",
     "descriptions": [
-        "Fixed QBCore common errors",
-        "Optimalization of code"
+        "Fixed frameworks common errors",
+        "Fixed logs common errors",
+        "Rewritten support for ps-dispatch [Beta]",
+        "Rewritten support for codem-billing [Beta]",
+        "Cleaned up part of NUI code"
     ]
 }
