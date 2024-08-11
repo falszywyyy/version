@@ -1,4 +1,6 @@
 {
-    "version": "1.0.0",
-    "descriptions": []
+    "version": "1.0.1",
+    "descriptions": [
+        "QB Core hotfix in GetPlayer function"
+    ]
 }
