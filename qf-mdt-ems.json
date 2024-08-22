@@ -1,7 +1,8 @@
 {
-    "version": "2.2.1",
+    "version": "2.2.4",
     "descriptions": [
-        "Fixed QBCore common errors",
-        "Optimalization of code"
+        "Fixed compatibility with ps-dispatch",
+        "Added compatibility with okok_phone",
+        "Fixed reset hours command and buttons"
     ]
 }

@@ -1,10 +1,8 @@
 {
-    "version": "2.2.2",
+    "version": "2.2.4",
     "descriptions": [
-        "Fixed frameworks common errors",
-        "Fixed logs common errors",
-        "Rewritten support for ps-dispatch [Beta]",
-        "Rewritten support for codem-billing [Beta]",
-        "Cleaned up part of NUI code"
+        "Fixed compatibility with ps-dispatch",
+        "Added compatibility with okok_phone",
+        "Fixed reset hours command and buttons"
     ]
 }
