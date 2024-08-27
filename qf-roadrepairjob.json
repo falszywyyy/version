@@ -1,4 +1,6 @@
 {
-    "version": "2.0.1",
-    "descriptions": []
+    "version": "2.2.0",
+    "descriptions": [
+        "Rewritten all framework functions"
+    ]
 }
