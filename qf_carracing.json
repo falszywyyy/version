@@ -1,4 +1,9 @@
 {
-    "version": "2.1.0",
-    "descriptions": []
+    "version": "2.2.0",
+    "descriptions": [
+        "Rewritten all framework functions",
+        "Rewritten and improved config files",
+        "Fixed error with invalid race name",
+        "Improved script performance"
+    ]
 }
