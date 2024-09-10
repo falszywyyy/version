@@ -1,6 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "descriptions": [
-        "QB Core hotfix in GetPlayer function"
+        "Rewritten and fixed (startSkin) function",
+        "Improved script performance"
     ]
 }
