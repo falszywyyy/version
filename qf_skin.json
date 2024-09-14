@@ -1,7 +1,6 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "descriptions": [
-        "Rewritten and fixed (startSkin) function",
-        "Improved script performance"
+        "Rewritten ESX callbacks"
     ]
 }
