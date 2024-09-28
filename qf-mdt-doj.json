@@ -1,10 +1,7 @@
 {
-    "version": "2.3.0",
+    "version": "2.3.1",
     "descriptions": [
-        "Fixed integration with okok_phone",
-        "Fixed integration with rcore_dispatch",
-        "Fixed integration with ps_dispatch",
-        "Rewritten some framework functions",
-        "Some cosmetic changes"
+        "Rewritten Lawyers List page",
+        "Minor Design and NUI fixes"
     ]
 }
