@@ -1,7 +1,10 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "descriptions": [
-        "Rewritten fxmanifest",
-        "Fixed reported errors"
+        "Fixed errors with exports",
+        "Added missing things to config translations",
+        "Added additional translations",
+        "Updated config",
+        "Added possibility to use script without target system"
     ]
 }
