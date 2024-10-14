@@ -1,6 +1,10 @@
 {
-    "version": "2.3.1",
+    "version": "2.4.0",
     "descriptions": [
-        "Minor fixes and changes"
+        "Added the ability to give and take away licenses (like weapons or drive) to citizens by tapping on the license at citizen profile",
+        "The design of minor elements has been improved to make them friendlier and easier to read.",
+        "Citizen files profile system are fully rewritten and expanded with new functions",
+        "Citizen files button action [Edit profile] are redesigned and optimalizated",
+        "Improved server-side of script performance and database connection"
     ]
 }
