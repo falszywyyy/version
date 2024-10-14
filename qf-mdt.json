@@ -1,7 +1,7 @@
 {
     "version": "2.4.0",
     "descriptions": [
-        "Added the ability to give and take away licenses (like weapons or drive) to citizens by tapping on the license at citizen profile",
+        "Added the ability to give and take away licenses [like weapons or drive] to citizens by tapping on the license at citizen profile",
         "The design of minor elements has been improved to make them friendlier and easier to read.",
         "Citizen files profile system are fully rewritten and expanded with new functions",
         "Citizen files button action [Edit profile] are redesigned and optimalizated",
