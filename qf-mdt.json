@@ -5,6 +5,7 @@
         "The design of minor elements has been improved to make them friendlier and easier to read.",
         "Citizen files profile system are fully rewritten and expanded with new functions",
         "Citizen files button action [Edit profile] are redesigned and optimalizated",
-        "Improved server-side of script performance and database connection"
+        "Improved server-side of script performance and database connection",
+        "IMPORTANT: DELETE OLD MDT SQL TABLES AND INSERT NEW FROM SCRIPT"
     ]
 }
