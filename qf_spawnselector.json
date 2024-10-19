@@ -1,0 +1,8 @@
+{
+    "version": "1.0.1",
+    "descriptions": [
+        "Corrected spawnLocation file in public folder",
+        "Fixed translations mistakes",
+        "Fixed reported bugs"
+    ]
+}
