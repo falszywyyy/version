@@ -1,11 +1,12 @@
 {
-    "version": "2.4.0",
+    "version": "2.5.0",
     "descriptions": [
-        "Added the ability to give and take away licenses [like weapons or drive] to citizens by tapping on the license at citizen profile",
-        "The design of minor elements has been improved to make them friendlier and easier to read",
-        "Citizen files profile system are fully rewritten and expanded with new functions",
-        "Citizen files button action [Edit profile] are redesigned and optimalizated",
-        "Improved server-side of script performance and database connection",
-        "IMPORTANT: DELETE OLD MDT SQL TABLES AND INSERT NEW FROM SCRIPT"
+        "Rewritten some society scripts compatibility",
+        "Rewritten translations files",
+        "Rewritten important client-side functions",
+        "Rewritten important server-side functions",
+        "Removed unused functions",
+        "Many other minor fixes and improves",
+        "IMPORTANT: DELETE OLD SQL TABLES AND INSERT NEW FROM SCRIPT"
     ]
 }

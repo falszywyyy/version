@@ -1,10 +1,17 @@
 {
-    "version": "2.3.0",
+    "version": "2.5.0",
     "descriptions": [
-        "Fixed integration with okok_phone",
-        "Fixed integration with rcore_dispatch",
-        "Fixed integration with ps_dispatch",
-        "Rewritten some framework functions",
-        "Some cosmetic changes"
+        "Rewritten some society scripts compatibility",
+        "Rewritten translations files",
+        "Rewritten important client-side functions",
+        "Rewritten important server-side functions",
+        "Removed unused functions",
+        "Added the ability to give and take away licenses [insurance] to citizens by tapping on the license at citizen profile",
+        "The design of minor elements has been improved to make them friendlier and easier to read",
+        "Citizen files profile system are fully rewritten and expanded with new functions",
+        "Citizen files button action [Edit profile] are redesigned and optimalizated",
+        "Improved server-side of script performance and database connection",
+        "Many other minor fixes and improves",
+        "IMPORTANT: DELETE OLD SQL TABLES AND INSERT NEW FROM SCRIPT"
     ]
 }
