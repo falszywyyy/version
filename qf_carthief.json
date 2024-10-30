@@ -1,10 +1,11 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "descriptions": [
-        "Fixed errors with exports",
-        "Added missing things to config translations",
-        "Added additional translations",
+        "Added ranking of top 10 people with most stolen cars",
         "Updated config",
-        "Added possibility to use script without target system"
+        "Fixed translations in config",
+        "German language added",
+        "README updated",
+        "Two new exports have been added",
     ]
 }
