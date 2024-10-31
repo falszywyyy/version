@@ -1,6 +1,11 @@
 {
-    "version": "2.3.1",
+    "version": "3.0.0",
     "descriptions": [
-        "Cosmetic changes"
+        "Added support for QBOX framework",
+        "Rewritten and improved the work menu interface",
+        "Rewritten and improved helpNotifications interface",
+        "Improved performance and synchronization between players",
+        "Improved translations files",
+        "Minor code fixes"
     ]
 }
