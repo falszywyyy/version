@@ -1,7 +1,12 @@
 {
-    "version": "2.1.0",
+    "version": "3.0.0",
     "descriptions": [
-        "Fixed some translations problems",
+        "Added support for QBOX framework",
+        "Rewritten bank closing using ESC",
+        "Rewritten and improved the appearance of the 'Settings' tab",
+        "Rewritten and improved the bank's appearance and basic theme",
+        "Improved performance and synchronization between players",
+        "Improved translations files",
         "Minor code fixes"
     ]
 }
