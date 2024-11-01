@@ -1,0 +1,18 @@
+{
+    "version": "3.0.0",
+    "descriptions": [
+        "Added support for QBOX framework",
+        "Added more configurable files to Config",
+        "Added ox_target, qb_target, qtarget support and compatibility",
+        "Rewritten every framework function",
+        "Rewritten script translations",
+        "Rewritten menu closing using ESC",
+        "Rewritten and improved appearance of racing menu",
+        "Rewritten and improved menu and basic theme",
+        "Improved performance and synchronization between players",
+        "Improved translations files",
+        "Improved and optimized server-side",
+        "Improved and optimized client-side",
+        "Minor code fixes"
+    ]
+}
