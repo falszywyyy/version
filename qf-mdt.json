@@ -1,12 +1,12 @@
 {
-    "version": "2.5.0",
+    "version": "3.0.0",
     "descriptions": [
-        "Rewritten some society scripts compatibility",
+        "Added support for QBOX framework",
+        "Added support for dbl_jail script",
+        "Added more configurable values to Config",
         "Rewritten translations files",
         "Rewritten important client-side functions",
         "Rewritten important server-side functions",
-        "Removed unused functions",
-        "Many other minor fixes and improves",
-        "IMPORTANT: DELETE OLD SQL TABLES AND INSERT NEW FROM SCRIPT"
+        "Removed unused functions"
     ]
 }
