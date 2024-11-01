@@ -1,7 +1,7 @@
 {
     "version": "1.1.0",
     "descriptions": [
-        "Added support for QBOX framework",
+        "Added fully support and compatbility with QBOX framework",
         "Rewritten and improved menu interface",
         "Improved translations files",
         "Minor code fixes"
