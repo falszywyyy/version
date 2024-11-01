@@ -1,7 +1,7 @@
 {
     "version": "3.0.0",
     "descriptions": [
-        "Added fully support and compatbility with QBOX framework",
+        "Added fully support and compatibility with QBOX framework",
         "Added more configurable files to Config",
         "Added ox_target, qb_target, qtarget support and compatibility",
         "Rewritten every framework function",

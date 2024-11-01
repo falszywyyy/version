@@ -1,7 +1,7 @@
 {
     "version": "3.0.0",
     "descriptions": [
-        "Added fully support and compatbility with QBOX framework",
+        "Added fully support and compatibility with QBOX framework",
         "Added support for dbl_jail script",
         "Added more configurable values to Config",
         "Rewritten translations files",

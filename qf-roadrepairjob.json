@@ -1,7 +1,7 @@
 {
     "version": "3.0.0",
     "descriptions": [
-        "Added fully support and compatbility with QBOX framework",
+        "Added fully support and compatibility with QBOX framework",
         "Rewritten and improved the work menu interface",
         "Rewritten and improved helpNotifications interface",
         "Improved performance and synchronization between players",
