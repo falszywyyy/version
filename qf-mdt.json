@@ -1,7 +1,10 @@
 {
-    "version": "3.0.1",
+    "version": "3.1.0",
     "descriptions": [
-        "Fixed and improved the search for citizens in the database",
-        "Fixed compatibility with tgg_billing"
+        "Improved search function for citizens' vehicles",
+        "The /code command has been removed",
+        "Added changing the city's threat level in the Dispatch tab from the selectable list",
+        "Removed unnecessary parts of the code",
+        "Expanded the config.lua file"
     ]
 }
