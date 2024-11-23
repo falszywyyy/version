@@ -1,7 +1,9 @@
 {
-    "version": "3.0.1",
+    "version": "3.2.0",
     "descriptions": [
-        "Fixed and improved the search for citizens in the database",
-        "Fixed compatibility with tgg_billing"
+        "Improved Doctor List function",
+        "Fixed Reset Hours button in Doctor List",
+        "Added missing translations to the configurable files",
+        "Removed unnecessary parts of the code"
     ]
 }
