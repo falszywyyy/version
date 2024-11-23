@@ -1,8 +1,8 @@
 {
-    "version": "1.0.1",
+    "version": "1.2.0",
     "descriptions": [
-        "Corrected spawnLocation file in public folder",
-        "Fixed translations mistakes",
-        "Fixed reported bugs"
+        "Rewritten config files",
+        "Added to config.lua [Config.TranslationsNUI, Config.Locations]",
+        "Fixed added new locations and translations"
     ]
 }
