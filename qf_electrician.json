@@ -1,6 +1,8 @@
 {
     "version": "1.1.0",
     "descriptions": [
-        "Fixed QBCore function for NearbyPlayers"
+        "Fixed Required Job function",
+        "Fixed Job Blips",
+        "Other minor fixes"
     ]
 }
