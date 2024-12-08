@@ -1,9 +1,8 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "descriptions": [
-        "Added fully support and compatibility with QBOX framework",
-        "Rewritten and improved menu interface",
-        "Improved translations files",
-        "Minor code fixes"
+        "Fixed loading of translations",
+        "Rewritten [fixskin, clearprops, skin] commands",
+        "Improved compatibility with other scripts"
     ]
 }
