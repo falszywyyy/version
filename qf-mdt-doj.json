@@ -1,9 +1,10 @@
 {
     "version": "3.2.0",
     "descriptions": [
-        "Improved Doctor List function",
-        "Fixed Reset Hours button in Doctor List",
-        "Added missing translations to the configurable files",
-        "Removed unnecessary parts of the code"
+        "Improved callbacks function",
+        "Added missing phone number translations",
+        "Added compatibility for bcs_license (Beta)",
+        "Fixed GetVehicle SQL query",
+        "Other minor changes"
     ]
 }
