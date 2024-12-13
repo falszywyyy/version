@@ -1,8 +1,8 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "descriptions": [
-        "Fixed Required Job function",
-        "Fixed Job Blips",
-        "Other minor fixes"
+        "Improved LUA code",
+        "Added missing translations",
+        "Fixed openNUI function"
     ]
 }
