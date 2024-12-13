@@ -1,10 +1,10 @@
 {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "descriptions": [
-        "Improved search function for citizens' vehicles",
-        "The /code command has been removed",
-        "Added changing the city's threat level in the Dispatch tab from the selectable list",
-        "Removed unnecessary parts of the code",
-        "Expanded the config.lua file"
+        "Improved callbacks function",
+        "Added missing phone number translations",
+        "Added compatibility for bcs_license (Beta)",
+        "Fixed GetVehicle SQL query",
+        "Other minor changes"
     ]
 }
