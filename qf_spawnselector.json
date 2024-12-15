@@ -1,8 +1,7 @@
 {
-    "version": "1.2.0",
+    "version": "1.3.0",
     "descriptions": [
-        "Rewritten config files",
-        "Added to config.lua [Config.TranslationsNUI, Config.Locations]",
-        "Fixed added new locations and translations"
+        "Improved callbacks function",
+        "Other minor changes"
     ]
 }
