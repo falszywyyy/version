@@ -1,10 +1,11 @@
 {
-    "version": "3.2.0",
+    "version": "3.3.0",
     "descriptions": [
-        "Improved callbacks function",
-        "Added missing phone number translations",
-        "Added compatibility for bcs_license (Beta)",
-        "Fixed GetVehicle SQL query",
+        "Improved callbacks function (Final)",
+        "Added Config.Navbar setting into main config",
+        "Added new setting One File (Citizen & Vehicles files in one tab) into config",
+        "Fixed some design issues",
+        "Removed old unused functions",
         "Other minor changes"
     ]
 }
