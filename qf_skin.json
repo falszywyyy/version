@@ -1,8 +1,7 @@
 {
-    "version": "1.2.1",
+    "version": "1.3.0",
     "descriptions": [
-        "Fixed loading of translations",
-        "Rewritten [fixskin, clearprops, skin] commands",
-        "Improved compatibility with other scripts"
+        "Added more possibilities in face values",
+        "Improved reading of values from character skin"
     ]
 }
