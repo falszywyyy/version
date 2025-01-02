@@ -1,11 +1,9 @@
 {
-    "version": "3.4.0",
+    "version": "4.0.0",
     "descriptions": [
-        "Completly rewritten callbacks system",
-        "Improved and changed SQL imports files",
-        "Improved server-side connection",
-        "Fixed compatibility for bcs_housing",
-        "Fixed compatibility for nolag_properties",
-        "Fixed minor errors"
+        "Fully rewritten and optimized client-side",
+        "Fully rewritten and optimized server-side",
+        "Added new option Config.ShowFines which allow you to enable or disable the issuance of invoices / sending to jail",
+        "Other minor changes and fixes"
     ]
 }
