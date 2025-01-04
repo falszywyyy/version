@@ -3,7 +3,8 @@
     "descriptions": [
         "Fully rewritten and optimized client-side",
         "Fully rewritten and optimized server-side",
-        "Added new option Config.ShowFines which allow you to enable or disable the issuance of invoices / sending to jail",
+        "Improved anti-cheaters features",
+        "Added new option to config named ShowFines which allow you to enable or disable the issuance of invoices",
         "Other minor changes and fixes"
     ]
 }
