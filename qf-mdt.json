@@ -1,10 +1,7 @@
 {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "descriptions": [
-        "Fully rewritten and optimized client-side",
-        "Fully rewritten and optimized server-side",
-        "Improved anti-cheaters features",
-        "Added new option to config named ShowFines which allow you to enable or disable the issuance of invoices",
-        "Other minor changes and fixes"
+        "Fixed compatibility with OkOkBilling",
+        "Fixed compatibility with ESX Billing"
     ]
 }
