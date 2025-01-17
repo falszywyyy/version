@@ -1,7 +1,8 @@
 {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "descriptions": [
-        "Fixed compatibility with OkOkBilling",
-        "Fixed compatibility with ESX Billing"
+        "Fixed Warrants section",
+        "Removed automatically paid bills in okokBilling",
+        "Fixed City Status webhook"
     ]
 }
