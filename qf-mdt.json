@@ -1,8 +1,7 @@
 {
-    "version": "4.0.2",
+    "version": "4.0.3",
     "descriptions": [
-        "Fixed Warrants section",
-        "Removed automatically paid bills in okokBilling",
-        "Fixed City Status webhook"
+        "Fixed job error",
+        "Fixed bills in okokBilling"
     ]
 }
