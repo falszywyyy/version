@@ -1,7 +1,6 @@
 {
-    "version": "4.0.1",
+    "version": "4.0.3",
     "descriptions": [
-        "Fixed compatibility with OkOkBilling",
-        "Fixed compatibility with ESX Billing"
+        "Fixed bills in okokBilling"
     ]
 }
