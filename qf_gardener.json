@@ -1,6 +1,6 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "descriptions": [
-        "Script published"
+        "Fixed the amount of salary received after the job is completed"
     ]
 }
