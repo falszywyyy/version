@@ -1,6 +1,7 @@
 {
     "version": "3.0.1",
     "descriptions": [
-        "Fixed FadeIn and FadeOut after spawning vehicle"
+        "Fixed FadeIn and FadeOut after spawning vehicle",
+        "Fixed PlayerData error with blips"
     ]
 }
