@@ -1,6 +1,8 @@
 {
-    "version": "4.0.3",
+    "version": "4.0.4",
     "descriptions": [
-        "Fixed bills in okokBilling"
+        "Fixed cd_dispatch showing alerts at Dispatch category",
+        "Added support for vms_bossmenu",
+        "Added beta support for gks_phone"
     ]
 }
