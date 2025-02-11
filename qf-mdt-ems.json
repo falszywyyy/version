@@ -1,8 +1,8 @@
 {
-    "version": "4.0.4",
+    "version": "4.0.5",
     "descriptions": [
-        "Fixed cd_dispatch showing alerts at Dispatch category",
-        "Added support for vms_bossmenu",
-        "Added beta support for gks_phone"
+        "Added compatibility with opto_dispatch (Beta)",
+        "Improved compatibility with vms_bossmenu",
+        "Added export AddFine(id, fine, reason)"
     ]
 }
