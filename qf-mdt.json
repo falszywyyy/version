@@ -1,9 +1,9 @@
 {
-    "version": "4.0.5",
+    "version": "4.1.0",
     "descriptions": [
-        "Added compatibility with opto_dispatch (Beta)",
-        "Improved compatibility with rx_housing",
-        "Improved compatibility with vms_bossmenu",
-        "Added export AddFine(id, fine, reason) and AddJail(id, fine, jail, reason)"
+        "Added compatibility for tk_dispatch",
+        "Fixed adding hours in tablet",
+        "Fixed duplication of users in hours database",
+        "Fixed other smaller things"
     ]
 }
