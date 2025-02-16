@@ -1,6 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "descriptions": [
-        "Fixed the amount of salary received after the job is completed"
+        "Fixed not displaying translations for teammates",
+        "Fixed job ending (not disappearing peds / blips)"
     ]
 }
