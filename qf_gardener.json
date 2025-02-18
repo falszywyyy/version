@@ -1,6 +1,7 @@
 {
     "version": "1.0.2",
     "descriptions": [
+        "Fixed showing current level at main menu",
         "Fixed not displaying translations for teammates",
         "Fixed job ending (not disappearing peds / blips)"
     ]
