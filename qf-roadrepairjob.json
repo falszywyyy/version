@@ -1,7 +1,7 @@
 {
-    "version": "3.0.1",
+    "version": "3.0.3",
     "descriptions": [
-        "Fixed FadeIn and FadeOut after spawning vehicle",
-        "Fixed PlayerData error with blips"
+        "Fixed double salary when working with teammate",
+        "Other minor changes"
     ]
 }
