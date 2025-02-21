@@ -1,8 +1,11 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "descriptions": [
-        "Fixed showing current level at main menu",
-        "Fixed not displaying translations for teammates",
-        "Fixed job ending (not disappearing peds / blips)"
+        "Added automatic proportional setting of salary percentages",
+        "Added ability to disable automatic vehicle removal",
+        "Added the ability to set the time after which a work vehicle is to be removed when it is abandoned",
+        "Fixed a bug with skipping minigames when using the spacebar key.",
+        "Fixed a bug with not disappearing NUI Menu for teammates after starting job.",
+        "Some other minor changes and fixes"
     ]
 }
