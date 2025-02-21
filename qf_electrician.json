@@ -1,7 +1,9 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "descriptions": [
-        "Fixed maximum percentage of salary",
-        "Optimized script client-side"
+        "Added automatic proportional setting of salary percentages",
+        "Added ability to disable automatic vehicle removal",
+        "Added the ability to set the time after which a work vehicle is to be removed when it is abandoned",
+        "Some other minor changes and fixes"
     ]
 }
