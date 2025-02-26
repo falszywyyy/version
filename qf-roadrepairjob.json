@@ -1,9 +1,9 @@
 {
-    "version": "3.0.4",
+    "version": "3.0.5",
     "descriptions": [
-        "Fixed friend teleport to vehicle after starting job",
-        "Fixed NUI progressBar remaining after finishing work",
-        "Fixed double paycheck after finishing work with friend",
-        "Some other minor changes and fixes"
+        "Compatibility with wasabi_carlock has been improved",
+        "Added compatibility for renewed_vehiclekeys",
+        "Added compatibility for crm_appearance",
+        "Fixed other smaller reported bugs"
     ]
 }
