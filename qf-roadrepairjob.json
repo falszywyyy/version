@@ -1,9 +1,7 @@
 {
-    "version": "3.0.5",
+    "version": "3.0.6",
     "descriptions": [
-        "Compatibility with wasabi_carlock has been improved",
-        "Added compatibility for renewed_vehiclekeys",
-        "Added compatibility for crm_appearance",
+        "Compatibility with illenium_appearance has been improved",
         "Fixed other smaller reported bugs"
     ]
 }

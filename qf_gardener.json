@@ -1,9 +1,9 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "descriptions": [
-        "Compatibility with wasabi_carlock has been improved",
-        "Added compatibility for renewed_vehiclekeys",
-        "Added compatibility for crm_appearance",
-        "Fixed other smaller reported bugs"
+        "Compatibility with illenium_appearance has been improved",
+        "Fixed reported errors with NUI",
+        "Fixed reported errors with Targets",
+        "Fixed other minor errors"
     ]
 }

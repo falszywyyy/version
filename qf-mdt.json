@@ -1,9 +1,7 @@
 {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "descriptions": [
-        "Added compatibility for ak47_housing",
-        "Added compatibility for cs_licenses",
-        "Added compatibility for p_prions",
-        "Fixed citizen status quick buttons (WANTED, DANGEROUS)"
+        "Fixed dispatch actions PWC / APWC / Nego",
+        "Fixed other minor issues"
     ]
 }
