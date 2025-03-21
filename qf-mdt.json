@@ -1,7 +1,8 @@
 {
-    "version": "4.1.2",
+    "version": "4.1.3",
     "descriptions": [
-        "Fixed dispatch actions PWC / APWC / Nego",
-        "Fixed other minor issues"
+        "Added beta compatibility for brutal_billing",
+        "Added beta compatibility for renewed_banking",
+        "Fixed some issues with webhooks"
     ]
 }
