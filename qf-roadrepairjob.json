@@ -1,7 +1,8 @@
 {
-    "version": "3.0.6",
+    "version": "3.1.0",
     "descriptions": [
-        "Compatibility with illenium_appearance has been improved",
-        "Fixed other smaller reported bugs"
+        "Completly rewritten compatibility for illenium_appearance",
+        "Rewritten some things with optimization",
+        "Fixed other minor errors"
     ]
 }

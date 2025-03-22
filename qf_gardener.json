@@ -1,9 +1,8 @@
 {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "descriptions": [
-        "Compatibility with illenium_appearance has been improved",
-        "Fixed reported errors with NUI",
-        "Fixed reported errors with Targets",
+        "Completly rewritten compatibility for illenium_appearance",
+        "Rewritten some things with optimization",
         "Fixed other minor errors"
     ]
 }
