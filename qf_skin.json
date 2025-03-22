@@ -1,8 +1,11 @@
 {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "descriptions": [
-        "Added new export to open startCharacter menu",
-        "Added new Config options",
-        "Other minor changes and fixes"
+        "Added beta compatibility with newest ESX",
+        "Added missing exports",
+        "Fixed loading player skin after joining server",
+        "Fixed reported SQL errors",
+        "Fixed NUI translations loader",
+        "Fixed other minor bugs"
     ]
 }
