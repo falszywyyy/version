@@ -1,0 +1,7 @@
+{
+    "version": "3.1.1",
+    "descriptions": [
+        "Added possibility to set own work props via config.lua",
+        "Fixed issues with custom translations"
+    ]
+}
