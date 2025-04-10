@@ -1,11 +1,8 @@
 {
-    "version": "1.5.0",
+    "version": "1.5.1",
     "descriptions": [
-        "Added beta compatibility with newest ESX",
-        "Added missing exports",
-        "Fixed loading player skin after joining server",
-        "Fixed reported SQL errors",
-        "Fixed NUI translations loader",
-        "Fixed other minor bugs"
+        "Fixed showing double menu",
+        "Fixed showing blips",
+        "Fixed other minor errors"
     ]
 }
