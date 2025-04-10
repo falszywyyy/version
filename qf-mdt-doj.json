@@ -1,8 +1,9 @@
 {
-    "version": "4.1.1",
+    "version": "4.1.2",
     "descriptions": [
-        "Added beta compatibility for brutal_billing",
-        "Added beta compatibility for renewed_banking",
-        "Fixed some issues with webhooks"
+        "Fixed compatibility with codem_dispatch",
+        "Fixed compatibility with bcs_housing",
+        "Fixed color settings error",
+        "Improved default French translations"
     ]
 }

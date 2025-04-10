@@ -1,8 +1,10 @@
 {
-    "version": "4.1.3",
+    "version": "4.1.4",
     "descriptions": [
-        "Added beta compatibility for brutal_billing",
-        "Added beta compatibility for renewed_banking",
-        "Fixed some issues with webhooks"
+        "Fixed compatibility with 0r_housing",
+        "Fixed compatibility with cs_licenses",
+        "Fixed compatibility with qbx_properties",
+        "Fixed other minor issues",
+        "Improved default French translations"
     ]
 }
