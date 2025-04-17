@@ -1,9 +1,9 @@
 {
-    "version": "4.1.2",
+    "version": "4.1.5",
     "descriptions": [
-        "Fixed compatibility with codem_dispatch",
-        "Fixed compatibility with bcs_housing",
-        "Fixed color settings error",
-        "Improved default French translations"
+        "Added automated creation of SQL tables",
+        "Rewritten players licenses system",
+        "Improved compatibility with buty_licenses",
+        "Fixed other minor issues"
     ]
 }

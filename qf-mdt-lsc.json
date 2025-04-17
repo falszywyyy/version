@@ -1,8 +1,9 @@
 {
-    "version": "4.1.1",
+    "version": "4.1.5",
     "descriptions": [
-        "Added beta compatibility for brutal_billing",
-        "Added beta compatibility for renewed_banking",
-        "Fixed some issues with webhooks"
+        "Added automated creation of SQL tables",
+        "Rewritten players licenses system",
+        "Improved compatibility with buty_licenses",
+        "Fixed other minor issues"
     ]
 }
