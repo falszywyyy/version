@@ -1,6 +1,7 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "descriptions": [
-        "Script publish"
+        "Fixed minor issues",
+        "Fixed issue with graffiti not showing after drawing."
     ]
 }
