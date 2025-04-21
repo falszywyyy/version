@@ -1,8 +1,6 @@
 {
-    "version": "1.5.1",
+    "version": "1.5.2",
     "descriptions": [
-        "Fixed showing double menu",
-        "Fixed showing blips",
-        "Fixed other minor errors"
+        "Added export for opening wardrobe (for houses or any other uses) / exports.qf_skin:openWardrobe()"
     ]
 }
