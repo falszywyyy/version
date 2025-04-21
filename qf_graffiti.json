@@ -1,7 +1,6 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "descriptions": [
-        "Fixed minor issues",
-        "Fixed issue with graffiti not showing after drawing."
+        "Added option to move graffiti (Forwards, Backwards) from original position while drawing graffiti if it was stuck in wall."
     ]
 }
