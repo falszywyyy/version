@@ -1,9 +1,8 @@
 {
-    "version": "3.0.1",
+    "version": "3.0.2",
     "descriptions": [
-        "Added automaticly SQL table creation and checker",
-        "Fixed issues with checkpoints",
-        "Fixed issues with database queries",
-        "Fixed other minor issues"
+        "Fixed issue with wrongly showing finish place",
+        "Fixed issue with not giving money / giving wrong amount",
+        "Fixed issue with UI"
     ]
 }
