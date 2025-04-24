@@ -1,9 +1,8 @@
 {
-    "version": "4.1.5",
+    "version": "4.1.6",
     "descriptions": [
-        "Added automated creation of SQL tables",
-        "Rewritten players licenses system",
-        "Improved compatibility with buty_licenses",
-        "Fixed other minor issues"
+        "Fixed issues with qb_licenses",
+        "Added compatibility with Only Innovations housing system",
+        "Added compatibility with Peleg Billing"
     ]
 }
