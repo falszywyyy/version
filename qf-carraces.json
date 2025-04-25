@@ -1,8 +1,6 @@
 {
-    "version": "3.0.2",
+    "version": "3.0.3",
     "descriptions": [
-        "Fixed issue with wrongly showing finish place",
-        "Fixed issue with not giving money / giving wrong amount",
-        "Fixed issue with UI"
+        "Major fixes"
     ]
 }
