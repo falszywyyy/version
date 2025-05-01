@@ -1,8 +1,7 @@
 {
     "version": "4.1.6",
     "descriptions": [
-        "Fixed issues with qb_licenses",
-        "Added compatibility with Only Innovations housing system",
-        "Added compatibility with Peleg Billing"
+        "Fixed issues ps-dispatch",
+        "Other minor fixes"
     ]
 }
