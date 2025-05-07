@@ -1,7 +1,8 @@
 {
-    "version": "4.1.6",
+    "version": "4.1.7",
     "descriptions": [
-        "Fixed issues ps-dispatch",
+        "Improved saving and refreshing citizen notes",
+        "Improved saving and refreshing vehicle notes",
         "Other minor fixes"
     ]
 }
