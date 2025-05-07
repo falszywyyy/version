@@ -1,6 +1,8 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "descriptions": [
-        "Script release"
+        "Improved script version checker",
+        "Improved debug commands",
+        "Fixed some minor issues"
     ]
 }
