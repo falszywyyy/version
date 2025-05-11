@@ -1,6 +1,8 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "descriptions": [
-        "Fixed issue with projects not showing correctly."
+        "Rewritten logs system.",
+        "Added ability to remove items after draw / remove graffiti",
+        "Fixed other minor issues"
     ]
 }
