@@ -1,8 +1,8 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "descriptions": [
-        "Rewritten logs system.",
-        "Added ability to remove items after draw / remove graffiti",
-        "Fixed other minor issues"
+        "Refactored a large portion of the code to improve overall optimization",
+        "Fixed item-related bugs",
+        "Removed unnecessary parts of the code for better maintainability"
     ]
 }
