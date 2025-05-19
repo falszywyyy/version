@@ -1,6 +1,11 @@
 {
-    "version": "1.1.1",
+    "version": "2.0.0",
     "descriptions": [
-        "Rewritten clothing system - from now work uniforms are working standalone"
+        "Completely rewritten cache system",
+        "Completely rewritten client-side",
+        "Completely rewritten server-side",
+        "Optimized and secured both client-side and server-side",
+        "Improved the aesthetics of starting the job",
+        "Fixed other reported bugs"
     ]
 }
