@@ -1,11 +1,10 @@
 {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "descriptions": [
-        "Completely rewritten cache system",
-        "Completely rewritten client-side",
-        "Completely rewritten server-side",
-        "Optimized and secured both client-side and server-side",
-        "Improved the aesthetics of starting the job",
-        "Fixed other reported bugs"
+        "Added compatibility with vRP Framework (Beta)",
+        "Added new things in config.lua",
+        "Rewrritten config.lua structure",
+        "Fixed createVehicle error",
+        "Fixed other minor issues"
     ]
 }
