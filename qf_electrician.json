@@ -1,6 +1,10 @@
 {
-    "version": "1.5.1",
-    "descriptions": [
-        "Rewritten clothing system - from now work uniforms are working standalone"
+    "version": "2.0.0",
+      "descriptions": [
+        "Added compatibility with vRP Framework (Beta)",
+        "Added new things in config.lua",
+        "Rewrritten config.lua structure",
+        "Fixed createVehicle error",
+        "Fixed other minor issues"
     ]
 }
