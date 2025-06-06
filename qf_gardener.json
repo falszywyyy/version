@@ -1,10 +1,6 @@
 {
-    "version": "2.0.1",
+    "version": "2.0.2",
     "descriptions": [
-        "Added compatibility with vRP Framework (Beta)",
-        "Added new things in config.lua",
-        "Rewrritten config.lua structure",
-        "Fixed createVehicle error",
-        "Fixed other minor issues"
+        "Added automatic framework detection for ESX / QB / QBOX"
     ]
 }
