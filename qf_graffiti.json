@@ -1,8 +1,9 @@
 {
-    "version": "1.0.5",
+    "version": "1.1.0",
     "descriptions": [
-        "Refactored a large portion of the code to improve overall optimization",
-        "Fixed item-related bugs",
-        "Removed unnecessary parts of the code for better maintainability"
+        "Added automatic framework detection for [ESX / QB / QBOX]",
+        "Rewrited UsableItems function",
+        "Rewrited some parts of NUI style",
+        "Fixed some minor issues"
     ]
 }
