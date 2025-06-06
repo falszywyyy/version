@@ -1,12 +1,11 @@
 {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "descriptions": [
-        "Added fully support and compatibility with QBOX framework",
-        "Rewritten bank closing using ESC",
-        "Rewritten and improved the appearance of the 'Settings' tab",
-        "Rewritten and improved the bank's appearance and basic theme",
-        "Improved performance and synchronization between players",
-        "Improved translations files",
-        "Minor code fixes"
+        "Added automatic framework detection for [ESX / QB / QBOX]",
+        "Added Beta compatibility with framework [vRP]",
+        "Added new translations [DE / ES / FR / PL]",
+        "Rewrited some parts of NUI style",
+        "Rewrited webhooks function",
+        "Fixed some minor issues"
     ]
 }
