@@ -1,10 +1,6 @@
 {
-    "version": "4.2.1",
+    "version": "5.0.0",
     "descriptions": [
-        "Added automatic framework detection for [ESX / QB / QBOX]",
-        "Added [core_dispatch] compatibility",
-        "Rewrited some [VRP] compatibility functions",
-        "Rewrited [updatePersonalNotes] function",
-        "Fixed some minor issues"
+        "We have changed the name of the script, download updates from keymaster.fivem.net!"
     ]
 }

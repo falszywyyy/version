@@ -1,7 +1,6 @@
 {
-    "version": "4.1.7",
+    "version": "5.0.0",
     "descriptions": [
-        "Improved saving and refreshing citizen notes",
-        "Other minor fixes"
+        "We have changed the name of the script, download updates from keymaster.fivem.net!"
     ]
 }

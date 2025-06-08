@@ -1,0 +1,11 @@
+{
+    "version": "4.2.2",
+    "descriptions": [
+        "Rewritten framework functions for [VRP] compatibility",
+        "Improved framework initialization logic",
+        "Fixed image-related issues",
+        "Refactored and optimized codebase",
+        "Minor fixes and adjustments",
+        "Renamed resource folder for better clarity and structure"
+    ]
+}
