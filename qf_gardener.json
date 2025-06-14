@@ -1,7 +1,6 @@
 {
-    "version": "2.0.2",
+    "version": "2.0.3",
     "descriptions": [
-        "Added automatic framework detection for [ESX / QB / QBOX]",
-        "Some minor fixes for [VRP] framework functions"
+        "Rewritten XP system"
     ]
 }
