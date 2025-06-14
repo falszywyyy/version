@@ -1,6 +1,8 @@
 {
-    "version": "1.5.2",
+    "version": "1.6.0",
     "descriptions": [
-        "Added export for opening wardrobe (for houses or any other uses) / exports.qf_skin:openWardrobe()"
+        "Added automatic framework detection for [ESX/QB/QBOX]",
+        "Added beta compatibility for [vms_tattooshop]",
+        "Refactored config.lua with a new structure"
     ]
 }
