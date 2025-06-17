@@ -1,7 +1,10 @@
 {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "descriptions": [
-        "Fixed reported errors",
-        "Added more debug commands"
+        "Slight visual improvements to the interface",
+        "Improved framework compatibility and handling",
+        "Refactored the structure of config.lua",
+        "Fixed language-related issues",
+        "General enhancements to overall script performance"
     ]
 }
