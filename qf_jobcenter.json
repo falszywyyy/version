@@ -1,6 +1,10 @@
 {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "descriptions": [
-        "Added automatic framework detection for [ESX / QB / QBOX]"
+        "Slight visual improvements to the interface",
+        "Improved framework compatibility and handling",
+        "Refactored the structure of config.lua",
+        "Fixed language-related issues",
+        "General enhancements to overall script performance"
     ]
 }
