@@ -1,6 +1,9 @@
 {
-    "version": "2.0.3",
+    "version": "2.1.0",
     "descriptions": [
-        "Rewritten XP system"
+        "Added support for sna_vehiclekeys",
+        "Improved the structure of config.lua",
+        "Fixed language-related issues",
+        "General improvements to overall script functionality"
     ]
 }
