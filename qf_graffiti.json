@@ -1,9 +1,10 @@
 {
-    "version": "1.1.0",
+    "version": "1.2.0",
     "descriptions": [
-        "Added automatic framework detection for [ESX / QB / QBOX]",
-        "Rewrited UsableItems function",
-        "Rewrited some parts of NUI style",
-        "Fixed some minor issues"
+        "Slight visual improvements to the interface",
+        "Improved framework compatibility and handling",
+        "Refactored the structure of config.lua",
+        "Fixed language-related issues",
+        "General enhancements to overall script performance"
     ]
 }
