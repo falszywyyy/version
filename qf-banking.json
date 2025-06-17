@@ -1,11 +1,6 @@
 {
     "version": "3.1.0",
     "descriptions": [
-        "Added automatic framework detection for [ESX / QB / QBOX]",
-        "Added Beta compatibility with framework [vRP]",
-        "Added new translations [DE / ES / FR / PL]",
-        "Rewrited some parts of NUI style",
-        "Rewrited webhooks function",
-        "Fixed some minor issues"
+        "We have changed the name of the script, download updates from keymaster.fivem.net!"
     ]
 }

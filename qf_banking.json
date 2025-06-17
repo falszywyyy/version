@@ -1,0 +1,10 @@
+{
+    "version": "3.2.0",
+    "descriptions": [
+        "Slight visual improvements to the bank interface",
+        "Fixed automatic SQL generation",
+        "Improved the structure of config.lua",
+        "Corrected language-related issues",
+        "General improvements to overall script performance"
+    ]
+}
