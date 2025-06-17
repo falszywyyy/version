@@ -1,9 +1,10 @@
 {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "descriptions": [
-        "Added automatic framework detection for [ESX / QB / QBOX]",
-        "Added Beta compatibility with framework [vRP]",
-        "Added new translations [DE / ES / FR / PL]",
-        "Fixed some minor issues"
+        "Fixed automatic SQL generation",
+        "Improved Target system",
+        "Improved the structure of config.lua",
+        "Corrected language-related issues",
+        "General improvements to overall script performance"
     ]
 }
