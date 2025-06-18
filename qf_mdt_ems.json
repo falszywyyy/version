@@ -1,8 +1,8 @@
 {
-    "version": "4.2.3",
+    "version": "4.2.4",
     "descriptions": [
-        "Fixed personalNote/Notepad functions",
-        "Rewrote the invoice/fine issuance system",
-        "Refactored config.lua with a new structure"
+        "Rewrote Billings compatibility",
+        "Rewrote Dispatchs compatibility",
+        "Fixed reported issues"
     ]
 }
