@@ -1,8 +1,6 @@
 {
-    "version": "1.6.0",
+    "version": "1.6.1",
     "descriptions": [
-        "Added automatic framework detection for [ESX/QB/QBOX]",
-        "Added beta compatibility for [vms_tattooshop]",
-        "Refactored config.lua with a new structure"
+        "Fixed issues with exports function"
     ]
 }
