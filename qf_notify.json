@@ -1,10 +1,7 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "descriptions": [
-        "Slight visual improvements to the interface",
-        "Improved framework compatibility and handling",
-        "Refactored the structure of config.lua",
-        "Fixed language-related issues",
-        "General enhancements to overall script performance"
+        "Added new triggers for use Notify / Progress / TextUI",
+        "Improved Safe Events"
     ]
 }
