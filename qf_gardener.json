@@ -1,9 +1,7 @@
 {
-    "version": "2.1.0",
+    "version": "2.1.2",
     "descriptions": [
-        "Added support for sna_vehiclekeys",
-        "Improved the structure of config.lua",
-        "Fixed language-related issues",
-        "General improvements to overall script functionality"
+        "Rewritten targets functions",
+        "Fixed QBCore and QBox issues"
     ]
 }
