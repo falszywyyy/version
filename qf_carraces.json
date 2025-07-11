@@ -1,10 +1,7 @@
 {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "descriptions": [
-        "Fixed automatic SQL generation",
-        "Improved Target system",
-        "Improved the structure of config.lua",
-        "Corrected language-related issues",
-        "General improvements to overall script performance"
+        "Improved locales",
+        "Added new options in config.lua [keyBinds]"
     ]
 }
