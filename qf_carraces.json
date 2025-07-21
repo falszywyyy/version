@@ -1,7 +1,6 @@
 {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "descriptions": [
-        "Improved locales",
-        "Added new options in config.lua [keyBinds]"
+        "Added option to customize leaveKey"
     ]
 }
