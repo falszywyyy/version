@@ -1,10 +1,6 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "descriptions": [
-        "Slight visual improvements to the interface",
-        "Improved framework compatibility and handling",
-        "Refactored the structure of config.lua",
-        "Fixed language-related issues",
-        "General enhancements to overall script performance"
+        "Rewritten and optimized server-side"
     ]
 }
