@@ -1,6 +1,6 @@
 {
-    "version": "1.7.0",
+    "version": "1.7.1",
     "descriptions": [
-        "Fixed issues related to permissions system in all frameworks"
+        "Fixed issues with admin groups"
     ]
 }
