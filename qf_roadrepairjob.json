@@ -1,10 +1,6 @@
 {
-    "version": "3.3.1",
+    "version": "3.3.2",
     "descriptions": [
-        "Fixed vehicle deletion after job completion",
-        "Fixed player payment after finishing the job",
-        "Updated and reorganized config.lua",
-        "Improved activity translations",
-        "Performed other minor fixes"
+        "Added compatibility with qs_vehiclekeys"
     ]
 }
