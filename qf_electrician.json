@@ -1,6 +1,6 @@
 {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "descriptions": [
-        "Added compatibility with qs_vehiclekeys"
+        "Fixes issues with custom vehiclekeys"
     ]
 }

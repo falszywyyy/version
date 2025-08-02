@@ -1,7 +1,6 @@
 {
-    "version": "2.1.3",
+    "version": "2.1.4",
     "descriptions": [
-        "Fixed qb_target issues",
-        "Fixed vehiclekeys issues"
+        "Fixes issues with custom vehiclekeys"
     ]
 }
