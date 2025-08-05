@@ -1,6 +1,6 @@
 {
-    "version": "4.2.5",
+    "version": "4.2.6",
     "descriptions": [
-        "Fixed QBCore / QBOX initial data issues"
+        "Fixed compatibility with qbx_properties"
     ]
 }
