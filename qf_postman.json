@@ -1,6 +1,9 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "descriptions": [
-        "Fixed GetPlayerData error"
+        "Improved qb_target compatibility",
+        "Rewritten GetVehicleKeys and RemoveVehicleKeys functions",
+        "Rewritten CreateVehicle function",
+        "Fixed other minor issues"
     ]
 }

@@ -1,6 +1,9 @@
 {
-    "version": "2.1.5",
+    "version": "2.1.6",
     "descriptions": [
-        "Fixed issues with qb_target"
+        "Improved qb_target compatibility",
+        "Rewritten GetVehicleKeys and RemoveVehicleKeys functions",
+        "Rewritten CreateVehicle function",
+        "Fixed other minor issues"
     ]
 }
