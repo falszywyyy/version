@@ -1,6 +1,6 @@
 {
-    "version": "1.2.4",
+    "version": "1.2.5",
     "descriptions": [
-        "Fully rewritten save images functions"
+        "Rewritten every function involves saving images"
     ]
 }
