@@ -1,10 +1,9 @@
 {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "descriptions": [
-        "Slight visual improvements to the bank interface",
-        "Fixed automatic SQL generation",
-        "Improved the structure of config.lua",
-        "Corrected language-related issues",
-        "General improvements to overall script performance"
+        "Improved bank interface",
+        "Fully rewritten Graph system",
+        "Added new server-side exports",
+        "Fixed other minor issues"
     ]
 }
