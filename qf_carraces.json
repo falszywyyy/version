@@ -1,6 +1,7 @@
 {
-    "version": "3.2.2",
+    "version": "3.2.3",
     "descriptions": [
-        "Added option to customize leaveKey"
+        "Added ACE permission support for every script command",
+        "Other mini fixes"
     ]
 }

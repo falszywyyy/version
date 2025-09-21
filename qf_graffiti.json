@@ -1,7 +1,6 @@
 {
-    "version": "1.2.5",
+    "version": "1.2.6",
     "descriptions": [
-        "Rewritten every function involves saving images",
-        "Fixed other minor issues"
+        "Added ACE permission support for every script command"
     ]
 }
