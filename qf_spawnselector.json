@@ -1,9 +1,6 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "descriptions": [
-        "Improved framework compatibility and handling",
-        "Refactored the structure of config.lua",
-        "Fixed language-related issues",
-        "General enhancements to overall script performance"
+        "Fixed fade bugs"
     ]
 }
