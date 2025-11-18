@@ -1,9 +1,8 @@
 {
-    "version": "2.0.0",
+    "version": "2.0.1",
     "descriptions": [
-        "Fully rewritten all configurable files for better clarity and readability",
-        "Rewrote and optimized all functions and framework support",
-        "Added advanced validation and fixed Lua / NUI-related bugs",
-        "Expanded script configurability with more options in config files"
+        "Rewritten huge part of code",
+        "Fixed reported issues",
+        "Added new options for config"
     ]
 }
