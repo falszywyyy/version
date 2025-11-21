@@ -1,6 +1,8 @@
 {
-    "version": "1.2.6",
+    "version": "1.2.7",
     "descriptions": [
-        "Added ACE permission support for every script command"
+        "Added new translations (de, fr, pl)",
+        "Rewritten remove graffiti function",
+        "Fixed some minor issues"
     ]
 }
