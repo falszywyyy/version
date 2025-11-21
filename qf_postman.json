@@ -1,9 +1,6 @@
 {
-    "version": "1.0.2",
+    "version": "1.0.3",
     "descriptions": [
-        "Improved qb_target compatibility",
-        "Rewritten GetVehicleKeys and RemoveVehicleKeys functions",
-        "Rewritten CreateVehicle function",
-        "Fixed other minor issues"
+        "Added new events for openTablet"
     ]
 }
