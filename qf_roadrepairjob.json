@@ -1,6 +1,9 @@
 {
-    "version": "3.3.3",
+    "version": "4.0.0",
     "descriptions": [
-        "Added compatibility with lc_fuel"
+        "Improved script compatibility with QBCore / QBox frameworks",
+        "Improved client-side script optimization",
+        "The NUI interface has been refreshed",
+        "Improved NUI responsiveness"
     ]
 }
