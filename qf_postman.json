@@ -1,6 +1,9 @@
 {
-    "version": "1.0.3",
+    "version": "1.0.4",
     "descriptions": [
-        "Added new events for openTablet"
+        "Improved script compatibility with QBCore / QBox frameworks",
+        "Improved client-side script optimization",
+        "Rewritten and added missing translations",
+        "Improved NUI responsiveness"
     ]
 }
