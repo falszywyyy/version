@@ -1,9 +1,10 @@
 {
-    "version": "2.1.4",
+    "version": "3.0.0",
     "descriptions": [
-        "Improved qb_target compatibility",
-        "Rewritten GetVehicleKeys and RemoveVehicleKeys functions",
-        "Rewritten CreateVehicle function",
-        "Fixed other minor issues"
+        "Improved script compatibility with QBCore / QBox frameworks",
+        "Improved client-side script optimization",
+        "Rewritten and added missing translations",
+        "The NUI interface has been refreshed",
+        "Improved NUI responsiveness"
     ]
 }
