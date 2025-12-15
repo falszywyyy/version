@@ -1,9 +1,6 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "descriptions": [
-        "Improved script compatibility with QBCore / QBox frameworks",
-        "Improved client-side script optimization",
-        "Rewritten and added missing translations",
-        "Improved NUI responsiveness"
+        "Improved and fixed ox_target issues"
     ]
 }
