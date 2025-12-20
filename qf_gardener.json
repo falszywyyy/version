@@ -1,10 +1,6 @@
 {
-    "version": "3.0.0",
+    "version": "3.0.1",
     "descriptions": [
-        "Improved script compatibility with QBCore / QBox frameworks",
-        "Improved client-side script optimization",
-        "Rewritten and added missing translations",
-        "The NUI interface has been refreshed",
-        "Improved NUI responsiveness"
+        "Added missing translations"
     ]
 }
