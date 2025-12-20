@@ -1,6 +1,8 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "descriptions": [
-        "Improved and fixed ox_target issues"
+        "Improved and fixed ox_target issues",
+        "Added missing translations",
+        "Rewritten qb_target compatibility"
     ]
 }
