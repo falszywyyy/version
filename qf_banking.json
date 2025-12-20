@@ -1,9 +1,7 @@
 {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "descriptions": [
-        "Improved bank interface",
-        "Fully rewritten Graph system",
-        "Added new server-side exports",
-        "Fixed other minor issues"
+        "Added new export for Bank Logs (wiki.qfdevelopers.com)",
+        "Added missing translations"
     ]
 }
