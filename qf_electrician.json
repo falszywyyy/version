@@ -1,10 +1,12 @@
 {
-    "version": "3.0.0",
+    "version": "3.1.0",
     "descriptions": [
-        "Improved script compatibility with QBCore / QBox frameworks",
-        "Improved client-side script optimization",
-        "Rewritten and added missing translations",
-        "The NUI interface has been refreshed",
-        "Improved NUI responsiveness"
+        "Added auto-detection system for Target scripts (ox_target, qtarget, qb-target) in Config",
+        "Added Config.UseRPName option to toggle between Roleplay Names and Steam Names in lobby/invites",
+        "Added automatic cleanup of all entities (peds, vehicles, props, blips, zones) on resource restart/stop",
+        "Implemented Character Names (Firstname Lastname) display support for ESX, QBCore, and QBox",
+        "Fixed critical bug with qb-target interactions where valid targets were not clickable (collision issue)",
+        "Fixed issue where the menu header displayed Steam Name instead of RP Name (race condition fix)",
+        "Fixed config logic where useE fallback was not checking resource state correctly"
     ]
 }
