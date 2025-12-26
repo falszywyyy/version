@@ -1,6 +1,10 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.2",
     "descriptions": [
-        "Script release"
+        "Fixed Invoice rejection config logic not working properly",
+        "Fixed Payment method settings ignored (Bank/Cash/Choice)",
+        "Fixed Personal billing creation option visible when disabled",
+        "Fixed UI Layout regression (Invoice list causing layout issues)",
+        "Fixed Typescript build errors & missing definitions"
     ]
 }
