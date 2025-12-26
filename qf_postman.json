@@ -1,8 +1,15 @@
 {
-    "version": "1.0.6",
+    "version": "1.1.0",
     "descriptions": [
-        "Improved and fixed ox_target issues",
-        "Added missing translations",
-        "Rewritten qb_target compatibility"
+        "Added auto-detection system for Target scripts (ox_target, qtarget, qb-target) in Config",
+        "Added Config.UseRPName option to toggle between Roleplay Names and Steam Names in lobby/invites",
+        "Added automatic cleanup of all entities (peds, vehicles, props, blips) on resource restart/stop",
+        "Implemented robust Character Name display system (Server-side caching + Client-side fallback helper)",
+        "Fixed critical bug with qb-target interactions where valid targets were not clickable (collision issue)",
+        "Fixed script error in Target callback (attempt to index number value) by normalizing target data",
+        "Fixed Put newspapers text appearing on mailboxes when player is not carrying newspapers",
+        "Fixed compatibility issue with Target.addEntity function signature",
+        "Fixed player name display in Lobby/Team menu showing Steam Name instead of RP Name",
+        "Replaced direct LocalPlayer state checks with wrapper functions for better framework compatibility"
     ]
 }
