@@ -1,10 +1,7 @@
 {
-    "version": "2.1.0",
+    "version": "2.1.1",
     "descriptions": [
-        "Rewrote shop interaction system using ox_lib points for improved reliability and performance optimization",
-        "Added auto-detection system for Target scripts (ox_target, qtarget, qb-target) in Config to automatically configure the active resource",
-        "Fixed critical bug in Clothing Menu where female characters received incorrect clothing IDs (boxers/shoes) due to hardcoded male defaults",
-        "Fixed issue with shopkeeper Peds facing the wrong direction by correctly implementing vector4 heading support",
-        "Fixed ResetBlips runtime error ensuring map blips are correctly refreshed on resource restart"
+        "Added missing compatibility export (startCharacter) for ESX",
+        "Added list for ox_inventory clothes items"
     ]
 }
