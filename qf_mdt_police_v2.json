@@ -1,6 +1,10 @@
 {
-    "version": "1.0.0",
+    "version": "1.0.1",
     "descriptions": [
-        "Script release"
+        "Refactored configuration consistency by consolidating redundant EnableRadar and enableRadar toggles into a single Config.NUI source of truth",
+        "Optimized Radar, Bodycam, and Badge components with early-return logic to completely stop script execution when features are disabled",
+        "Added new enableBodycam and enableBadge configuration options allowing for complete disablement of these subsystems",
+        "Fixed client-side data injection ensuring the correct confirmation flags are passed to the NUI without duplications",
+        "Cleaned up NUI production code by removing debug console logs and standardizing code formatting across React components"
     ]
 }
