@@ -1,11 +1,11 @@
 {
-    "version": "3.1.0",
+    "version": "3.2.0",
     "descriptions": [
-        "Added auto-detection system for Target scripts (ox_target, qtarget, qb-target) in Config",
-        "Added Config.UseRPName option to toggle between Roleplay Names and Steam Names in lobby/invites",
-        "Added automatic cleanup of all entities (peds, vehicles, props, blips, zones) on resource restart/stop",
-        "Implemented Character Names (Firstname Lastname) display support for ESX, QBCore, and QBox",
-        "Fixed critical bug with qb-target interactions showing generic Interact label and not working",
-        "Fixed config logic where useE fallback was not disabling correctly when a Target system was detected"
+        "Implemented customizable HUD Editor in the Lobby menu with drag-and-drop functionality for HUD elements",
+        "Added local storage persistence ensuring user layout preferences are saved across sessions",
+        "Optimized HUD visibility logic to automatically hide progress bars when menus (Lobby/Editor) are active",
+        "Restyled UI Editor interface to match the resource's design theme, converting buttons to custom elements for consistent font rendering",
+        "Fixed NUI callback error qf:gardener:focus:on ensuring smooth transition when closing the editor",
+        "Fixed hardcoded strings in Job Lobby and Interaction prompts for full multi-language support"
     ]
 }
