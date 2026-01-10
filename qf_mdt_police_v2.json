@@ -1,10 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.0.2",
     "descriptions": [
-        "Refactored configuration consistency by consolidating redundant EnableRadar and enableRadar toggles into a single Config.NUI source of truth",
-        "Optimized Radar, Bodycam, and Badge components with early-return logic to completely stop script execution when features are disabled",
-        "Added new enableBodycam and enableBadge configuration options allowing for complete disablement of these subsystems",
-        "Fixed client-side data injection ensuring the correct confirmation flags are passed to the NUI without duplications",
-        "Cleaned up NUI production code by removing debug console logs and standardizing code formatting across React components"
+        "Fixed React Error that caused stability and loading issues with the MDT interface",
+        "Fixed Radar system to be hidden by default when opening the tablet, activating automatically only in appropriate situations (e.g., inside a vehicle)"
     ]
 }

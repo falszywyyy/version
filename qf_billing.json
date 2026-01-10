@@ -1,10 +1,9 @@
 {
-    "version": "1.0.2",
+    "version": "1.1.0",
     "descriptions": [
-        "Fixed Invoice rejection config logic not working properly",
-        "Fixed Payment method settings ignored (Bank/Cash/Choice)",
-        "Fixed Personal billing creation option visible when disabled",
-        "Fixed UI Layout regression (Invoice list causing layout issues)",
-        "Fixed Typescript build errors & missing definitions"
+        "Added full support for Right-to-Left (RTL) languages (Hebrew, Arabic) with automatic UI layout adjustment.",
+        "Added new Hebrew (he) translation file to the available languages.",
+        "Fixed visual alignment issues in the Create Invoice modal to correctly display amounts and text for RTL languages.",
+        "Improved system configuration to automatically detect language direction based on your Config settings."
     ]
 }
