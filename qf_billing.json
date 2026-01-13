@@ -1,9 +1,8 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.1",
     "descriptions": [
-        "Added full support for Right-to-Left (RTL) languages (Hebrew, Arabic) with automatic UI layout adjustment.",
-        "Added new Hebrew (he) translation file to the available languages.",
-        "Fixed visual alignment issues in the Create Invoice modal to correctly display amounts and text for RTL languages.",
-        "Improved system configuration to automatically detect language direction based on your Config settings."
+        "Resolved an issue where paying a society bill would deduct funds from the player's personal wallet instead of the payer's society account.",
+        "Refactored `Editable.ProcessPayment` to use asynchronous callbacks, ensuring reliable database updates and state management.",
+        "Added robust checks for `target_society` to ensure funds are routed correctly between organizations (e.g., Police to EMS)."
     ]
 }
