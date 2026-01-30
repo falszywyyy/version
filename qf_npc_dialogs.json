@@ -1,6 +1,9 @@
 {
-    "version": "1..0.0",
+    "version": "1.0.1",
     "descriptions": [
-        "Script release"
+        "Added support for conditional dialog options (options can now be hidden based on a Lua function)",
+        "Implemented dynamic dialog branching where nextDialog can be a function returning a dialog ID",
+        "Added standalone-friendly examples (e.g., Health Check) and Server Event documentation to Config",
+        "Improved client logic to filter hidden options before sending to NUI"
     ]
 }
