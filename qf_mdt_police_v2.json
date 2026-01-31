@@ -1,9 +1,9 @@
 {
-    "version": "1.0.4",
+    "version": "1.0.5",
     "descriptions": [
-        "Fixed critical SQL error Unknown column 'identifier' on QBCore/Qbox frameworks by implementing dynamic query generation for citizen searches",
-        "Added full support for QBCore/Qbox database schema (`players` table, `citizenid` column and `charinfo` JSON extraction) in citizen search and profile view",
-        "Refactored server-side Audit Log system to use named arguments for translation interpolation, fixing issues where variables were not displaying correctly in logs",
-        "Fixed multiple `SERVER.AuditLog` calls to ensure officer names, badge numbers, and log details are correctly formatted and passed to the audit system"
+        "Fixed player vehicle retrieval on QBCore/QBox by correcting SQL queries to properly fetch vehicle models and plates",
+        "Refactored audit log system to support translation arguments and added creator badge tracking for better accountability",
+        "Fixed officer hours tracking by ensuring the database column uses the correct decimal type",
+        "Added automatic database migrations to prevent errors with missing columns in audit logs and officer tables"
     ]
 }
