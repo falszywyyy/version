@@ -1,9 +1,9 @@
 {
-    "version": "1.0.5",
+    "version": "1.0.6",
     "descriptions": [
-        "Fixed player vehicle retrieval on QBCore/QBox by correcting SQL queries to properly fetch vehicle models and plates",
-        "Refactored audit log system to support translation arguments and added creator badge tracking for better accountability",
-        "Fixed officer hours tracking by ensuring the database column uses the correct decimal type",
-        "Added automatic database migrations to prevent errors with missing columns in audit logs and officer tables"
+        "Added CreateDispatchAlert export to allow external resources to trigger dispatch alerts ",
+        "exports.qf_mdt_police_v2:CreateDispatchAlert(coords, title, description, code, colorRGB, maxOfficers, duration)",
+        "Fixed issue with hardcoded job names to correctly support custom jobs from Config",
+        "Fixed birthdate formatting issue (NaN/NaN/NaN) on ESX framework"
     ]
 }
