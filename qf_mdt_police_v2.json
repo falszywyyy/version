@@ -3,6 +3,7 @@
     "descriptions": [
         "Added CreateDispatchAlert export to allow external resources to trigger dispatch alerts ",
         "exports.qf_mdt_police_v2:CreateDispatchAlert(coords, title, description, code, colorRGB, maxOfficers, duration)",
+        "Added ability to open / close radar with one key instead of two",
         "Fixed issue with hardcoded job names to correctly support custom jobs from Config",
         "Fixed birthdate formatting issue (NaN/NaN/NaN) on ESX framework"
     ]
