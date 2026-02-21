@@ -1,6 +1,14 @@
 {
-    "version": "1.0.0",
+    "version": "1.1.0",
     "descriptions": [
-        "Script release!"
+        "Added compatibility for external dispatch scripts (rcore_dispatch, core_dispatch, opto_dispatch, tk-dispatch) in Config.Dispatch.Integration",
+        "Added custom server event to easily integrate custom dispatch alerts (more information available at wiki.qfdevelopers.com)",
+        "Added and corrected missing language translations",
+        "Improved the functionality of camera flashlight",
+        "Improved the functionality of the automatic mugshots system",
+        "Improved responsibility and increased smoothness of gallery camera",
+        "Improved overall script optimization at client-side",
+        "Fixed issue with manually cleared citizen invoices",
+        "Fixed issue with camera blocked keys"
     ]
 }

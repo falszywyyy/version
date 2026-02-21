@@ -1,10 +1,14 @@
 {
-    "version": "1.0.6",
+    "version": "1.1.0",
     "descriptions": [
-        "Added CreateDispatchAlert export to allow external resources to trigger dispatch alerts ",
-        "exports.qf_mdt_police_v2:CreateDispatchAlert(coords, title, description, code, colorRGB, maxOfficers, duration)",
-        "Added ability to open / close radar with one key instead of two",
-        "Fixed issue with hardcoded job names to correctly support custom jobs from Config",
-        "Fixed birthdate formatting issue (NaN/NaN/NaN) on ESX framework"
+        "Added compatibility for external dispatch scripts (rcore_dispatch, core_dispatch, opto_dispatch, tk-dispatch) in  config.lua (Config.Dispatch.Integration)",
+        "Added compatibility for prisons scripts in config.lua (Config.Prison)",
+        "Added custom server event to easily integrate custom dispatch alerts (more information available at wiki.qfdevelopers.com)",
+        "Added and corrected missing language translations",
+        "Improved the functionality of camera flashlight",
+        "Improved the functionality of the automatic mugshots system",
+        "Improved responsibility and increased smoothness of gallery camera",
+        "Improved overall script optimization at client-side",
+        "Fixed issue with camera blocked keys"
     ]
 }
