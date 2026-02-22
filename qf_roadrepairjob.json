@@ -1,9 +1,9 @@
 {
-    "version": "4.0.0",
+    "version": "4.0.1",
     "descriptions": [
-        "Improved script compatibility with QBCore / QBox frameworks",
-        "Improved client-side script optimization",
-        "The NUI interface has been refreshed",
-        "Improved NUI responsiveness"
+        "Added support for multiple allowed jobs by configuring `Config.JobName` as a table (e.g. `{'unemployed', 'police'}`)",
+        "Fixed critical bug where setting `Config.EnableJob = false` still validated player jobs on targets and markers",
+        "Fixed vRP integration to properly support array of jobs and the completely disabled job requirement feature",
+        "Secured server events with state tracking to prevent Lua executors from spawning infinite money"
     ]
 }
