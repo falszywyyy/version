@@ -1,13 +1,12 @@
 {
-    "version": "1.3.1",
+    "version": "1.4.0",
     "descriptions": [
-        "Added full compatibility with QBOX and ox_inventory standards",
-        "Implemented TriggerLatentServerEvent for saving projects to prevent 'Large Event' network warnings",
-        "Fixed 'Failed to fetch' NUI error ensuring smoother UI interactions",
-        "Fixed logic for blockImages config preventing the image selection menu from opening",
-        "Fixed external image URLs (http/https) not displaying correctly when Base64 data is missing",
-        "Fixed gallery preview not checking/updating immediately after saving a new graffiti",
-        "Fixed various NUI callbacks to ensure better data synchronization between Client and React",
-        "Replaced standard event triggers with optimized handlers for better performance on high-population servers"
+        "Added Live Garbage Collection: Unused image files (.png/.txt) are now instantly deleted from the server to save disk space.",
+        "Added safeguards to the removal tool: You can now cancel the graffiti removal mode by pressing ESC, Right-click, or typing /graffitiremove again.",
+        "Major performance boost: Optimized the rendering logic, keeping client resource usage at a flat ~0.00ms even with many graffitis around.",
+        "Fixed a startup bug causing the 'LoadData() nil' error when a player spawns.",
+        "Fixed an issue where the automatic washing system would sometimes fail to remove graffitis.",
+        "Improved input responsiveness when entering the graffiti placement mode.",
+        "Updated translations for multiple languages to include the new cancel actions."
     ]
 }
