@@ -1,12 +1,10 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "descriptions": [
-        "Added Live Garbage Collection: Unused image files (.png/.txt) are now instantly deleted from the server to save disk space.",
-        "Added safeguards to the removal tool: You can now cancel the graffiti removal mode by pressing ESC, Right-click, or typing /graffitiremove again.",
-        "Major performance boost: Optimized the rendering logic, keeping client resource usage at a flat ~0.00ms even with many graffitis around.",
-        "Fixed a startup bug causing the 'LoadData() nil' error when a player spawns.",
-        "Fixed an issue where the automatic washing system would sometimes fail to remove graffitis.",
-        "Improved input responsiveness when entering the graffiti placement mode.",
-        "Updated translations for multiple languages to include the new cancel actions."
+        "Migrated the entire image creation and storage system to use the highly optimized WebP format instead of PNG, significantly reducing storage requirements and bandwidth usage",
+        "Implemented an automatic backend migration script that seamlessly converts all existing legacy .png project files to .webp on first server startup",
+        "Updated the automated Garbage Collection (GC) system to properly monitor, detect, and clean up both active and orphaned .webp image assets",
+        "Rewrote frontend canvas renderer to natively encode drawn spray projects directly into WebP Base64 strings",
+        "Updated NUI loading processes and fxmanifest to ensure newly optimized .webp images are correctly loaded and displayed in the UI and in-game"
     ]
 }
