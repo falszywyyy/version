@@ -1,14 +1,11 @@
 {
-    "version": "1.1.0",
+    "version": "1.1.2",
     "descriptions": [
-        "Added compatibility for external dispatch scripts (rcore_dispatch, core_dispatch, opto_dispatch, tk-dispatch) in  config.lua (Config.Dispatch.Integration)",
-        "Added compatibility for prisons scripts in config.lua (Config.Prison)",
-        "Added custom server event to easily integrate custom dispatch alerts (more information available at wiki.qfdevelopers.com)",
-        "Added and corrected missing language translations",
-        "Improved the functionality of camera flashlight",
-        "Improved the functionality of the automatic mugshots system",
-        "Improved responsibility and increased smoothness of gallery camera",
-        "Improved overall script optimization at client-side",
-        "Fixed issue with camera blocked keys"
+        "Fixed an issue where player gender would display as 'Unknown' for QBCore and QBox frameworks due to a data type mismatch (string vs number).",
+        "Fixed a typo in the database parsing logic for QBCore/QBox where female characters were incorrectly assigned the male translation.",
+        "Fixed a critical NUI crash caused by clearing number inputs in the Custom Charge modal which resulted in a NaN parsing error.",
+        "Fixed an issue where society funds from fines were not deposited correctly if the officer's job name was customized to something other than the default police.",
+        "Fixed an issue where the tablet prop animation would occasionally fail to clear after closing the MDT UI.",
+        "Improved security when saving custom mugshot images to prevent potential directory traversal exploits."
     ]
 }
