@@ -1,9 +1,10 @@
+
 {
     "version": "1.1.3",
     "descriptions": [
-        "Added `Config.Billings`, `Config.Banks`, and `Config.Society` configuration options to Ambulance MDT for extensive billing system integration",
+        "Added `Config.Billings`, `Config.Banks`, and `Config.Society` configuration options for extensive billing and banking system integration",
         "Implemented universal invoice creation via `EDITABLE.CreateBilling` for medics, allowing support for multiple external billing and banking resources",
-        "Added `KickFromDutyJob` configuration object (`enabled`, `name`) to automatically set an off-duty job (e.g. `offpolice` or `offambulance`) when kicking a player from duty via the MDT",
+        "Added `KickFromDutyJob` configuration object (`enabled`, `name`) to automatically set an off-duty job (e.g. `offambulance`) when kicking a medic from duty via the MDT",
         "Ensured the player's job grade is fully preserved when they are transferred to the off-duty job",
         "Added offline job update support across ESX, QBCore, and QBox for players kicked from duty while not in the server",
         "Added `Config.Mugshot` configuration with `autoTake` option to allow disabling automatic mugshot capture when a player joins the server",
