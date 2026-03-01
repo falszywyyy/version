@@ -1,9 +1,8 @@
 {
-    "version": "4.0.1",
+    "version": "4.0.2",
     "descriptions": [
-        "Added support for multiple allowed jobs by configuring `Config.JobName` as a table (e.g. `{'unemployed', 'police'}`)",
-        "Fixed critical bug where setting `Config.EnableJob = false` still validated player jobs on targets and markers",
-        "Fixed vRP integration to properly support array of jobs and the completely disabled job requirement feature",
-        "Secured server events with state tracking to prevent Lua executors from spawning infinite money"
+        "Added `Config.DeleteVehicleOnEnd` to automatically delete the job vehicle when finishing or resetting the work, preventing abandoned vehicles on the map",
+        "Added `Config.CoWorkerDistance` check to prevent players from exploiting or bugging the job completion while their co-worker is far away",
+        "Added new configurable notifications (`WORK_RESET_NOTIFY` and `FRIEND_TOO_FAR`) to improve player feedback during job events"
     ]
 }
