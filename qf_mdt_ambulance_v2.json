@@ -1,13 +1,8 @@
-
 {
-    "version": "1.1.3",
+    "version": "1.1.4",
     "descriptions": [
-        "Added `Config.Billings`, `Config.Banks`, and `Config.Society` configuration options for extensive billing and banking system integration",
-        "Implemented universal invoice creation via `EDITABLE.CreateBilling` for medics, allowing support for multiple external billing and banking resources",
-        "Added `KickFromDutyJob` configuration object (`enabled`, `name`) to automatically set an off-duty job (e.g. `offambulance`) when kicking a medic from duty via the MDT",
-        "Ensured the player's job grade is fully preserved when they are transferred to the off-duty job",
-        "Added offline job update support across ESX, QBCore, and QBox for players kicked from duty while not in the server",
-        "Added `Config.Mugshot` configuration with `autoTake` option to allow disabling automatic mugshot capture when a player joins the server",
-        "Integrated Fivemanage API for mugshot uploads, allowing mugshots to be saved directly to Fivemanage instead of local server files (configured via `uploadType` and server convar keys)"
+        "Added `Config.Billings.codemBillingV2` to configuration and integrated support for mBilling v2 (`codem-billingv2`) in `EDITABLE.CreateBilling`",
+        "Added `Config.Dispatch.Integration.frkn_police_dispatch` to configuration and implemented server-side event listeners for `frkn-police-job` dispatch alerts",
+        "Added `Config.Dispatch.Integration._0r_dispatch` to configuration and implemented server-side event listeners for `0r-dispatch` alerts"
     ]
 }
