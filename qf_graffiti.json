@@ -1,10 +1,6 @@
 {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "descriptions": [
-        "Migrated the entire image creation and storage system to use the highly optimized WebP format instead of PNG, significantly reducing storage requirements and bandwidth usage",
-        "Implemented an automatic backend migration script that seamlessly converts all existing legacy .png project files to .webp on first server startup",
-        "Updated the automated Garbage Collection (GC) system to properly monitor, detect, and clean up both active and orphaned .webp image assets",
-        "Rewrote frontend canvas renderer to natively encode drawn spray projects directly into WebP Base64 strings",
-        "Updated NUI loading processes and fxmanifest to ensure newly optimized .webp images are correctly loaded and displayed in the UI and in-game"
+        "Fully resolved issues with missing icons"
     ]
 }
