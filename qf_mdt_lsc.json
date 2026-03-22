@@ -1,8 +1,6 @@
 {
-    "version": "4.2.4",
+    "version": "4.2.5",
     "descriptions": [
-        "Rewrote Billings compatibility",
-        "Rewrote Dispatchs compatibility",
-        "Fixed reported issues"
+        "Changed placeholder image for Citizens / Vehicles page and added option to modify it as (DEFAULT) in database"
     ]
 }
