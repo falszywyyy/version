@@ -1,7 +1,6 @@
 {
-    "version": "2.1.1",
+    "version": "2.1.2",
     "descriptions": [
-        "Added missing compatibility export (startCharacter) for ESX",
-        "Added list for ox_inventory clothes items"
+        "Fully resolved issues with icons"
     ]
 }
