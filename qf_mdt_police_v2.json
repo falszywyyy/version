@@ -1,11 +1,11 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "descriptions": [
-        "Added Fast GPS support for quick navigation to latest alerts (Hotkey: 'E')",
-        "Integrated `qf_billing` support for invoices and fines",
-        "Unified framework system for improved performance and stability",
-        "Fixed Date of Birth (DOB) formatting consistency",
-        "Restored and improved FontAwesome icons rendering",
-        "Updated default profile and vehicle placeholder images"
+        "Integrated GPS item requirement for MDT map tracking",
+        "Added MDT alert volume control slider in settings",
+        "Added configuration option to enable or disable officer badges",
+        "Customized IgnoredJobs to generate alerts with custom labels and colors",
+        "Implemented dispatch-free zones to suppress alerts in configured areas",
+        "Fixed critical script errors and loading sequence in fxmanifest"
     ]
 }
