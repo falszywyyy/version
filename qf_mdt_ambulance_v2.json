@@ -1,11 +1,10 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "descriptions": [
-        "Integrated GPS item requirement for MDT map tracking",
-        "Added MDT alert volume control slider in settings",
-        "Added configuration option to enable or disable medic badges",
-        "Customized IgnoredJobs to generate alerts with custom labels and colors",
-        "Implemented dispatch-free zones to suppress alerts in configured areas",
-        "Fixed critical script errors and loading sequence in fxmanifest"
+        "Integrated support for the latest 0r-dispatch version and its new event signature",
+        "Added dispatch alert descriptions to the MDT UI for better information clarity",
+        "Ensured backward compatibility in dispatch-compatibility.lua for older dispatch formats",
+        "Fixed dispatch alert card layout and background rendering issues",
+        "Standardized localization keys across all supported languages"
     ]
 }
