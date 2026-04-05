@@ -1,10 +1,9 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "descriptions": [
-        "Integrated support for the latest 0r-dispatch version and its new event signature",
-        "Added dispatch alert descriptions to the MDT UI for better information clarity",
-        "Ensured backward compatibility in dispatch-compatibility.lua for older dispatch formats",
-        "Fixed dispatch alert card layout and background rendering issues",
-        "Standardized localization keys across all supported languages"
+        "Fixed hardcoded English placeholders in medical history modals for full localization support",
+        "Standardized and synchronized translation keys across all supported languages (EN, FR, DE, ES, IT, JA, KO, PL, PT)",
+        "Added new localization keys for medical history title, notes, and body parts placeholders",
+        "Fixed missing localization for tag input placeholder in the Medical History update view"
     ]
 }
