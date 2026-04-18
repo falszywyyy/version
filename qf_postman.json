@@ -1,7 +1,6 @@
 {
-    "version": "1.1.1",
+    "version": "1.1.2",
     "descriptions": [
-        "Fixed a critical script error (attempt to index a nil value) by ensuring consistent initialization of JobData.DrawActivity during job termination and team updates",
-        "Added missing female clothing configuration to config.lua"
+        "Fixed 'Column identifier cannot be null' MySQL errors by adding missing identifier to the framework bridge for ESX, QBCore, and QBox"
     ]
 }
