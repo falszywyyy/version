@@ -1,9 +1,7 @@
 {
-    "version": "1.1.8",
+    "version": "1.1.9",
     "descriptions": [
-        "Fixed hardcoded English placeholders in medical history modals for full localization support",
-        "Standardized and synchronized translation keys across all supported languages (EN, FR, DE, ES, IT, JA, KO, PL, PT)",
-        "Added new localization keys for medical history title, notes, and body parts placeholders",
-        "Fixed missing localization for tag input placeholder in the Medical History update view"
+        "Implemented EDITABLE.OnStatusChange hook in config/server/editable.lua to allow triggering custom on-duty/off-duty events",
+        "Improved server-side status synchronization to ensure consistent state across all medic tablets"
     ]
 }

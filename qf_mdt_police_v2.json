@@ -1,10 +1,8 @@
 {
-    "version": "1.1.7",
+    "version": "1.1.8",
     "descriptions": [
-        "Integrated support for the latest 0r-dispatch version and its new event signature",
-        "Added dispatch alert descriptions to the MDT UI for better information clarity",
-        "Ensured backward compatibility in dispatch-compatibility.lua for older dispatch formats",
-        "Fixed dispatch alert card layout and background rendering issues",
-        "Standardized localization keys across all supported languages"
+        "Integrated RTX Housing compatibility to allow viewing citizen property information directly from the MDT",
+        "Added EDITABLE.CreateBilling server-side function to config/server/editable.lua for custom billing and banking systems",
+        "Implemented EDITABLE.OnStatusChange hook in editable.lua for handling custom logic during duty status transitions"
     ]
 }
