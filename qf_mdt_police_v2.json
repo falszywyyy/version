@@ -1,8 +1,9 @@
 {
-    "version": "1.1.8",
+    "version": "1.2.0",
     "descriptions": [
-        "Integrated RTX Housing compatibility to allow viewing citizen property information directly from the MDT",
-        "Added EDITABLE.CreateBilling server-side function to config/server/editable.lua for custom billing and banking systems",
-        "Implemented EDITABLE.OnStatusChange hook in editable.lua for handling custom logic during duty status transitions"
+        "Added EDITABLE.OnStatusChange hook in editable.lua for custom on-duty/off-duty events.",
+        "Fixed Invoice creation failures on QBCore/QBox frameworks.",
+        "Fixed Jail integration with p_policejob export (missing reason & invalid source parameters).",
+        "Fixed Officer hours reset logic failing to persist to the database and server memory."
     ]
 }

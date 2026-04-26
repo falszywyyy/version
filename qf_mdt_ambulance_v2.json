@@ -1,7 +1,9 @@
 {
-    "version": "1.1.9",
+    "version": "1.2.0",
     "descriptions": [
-        "Implemented EDITABLE.OnStatusChange hook in config/server/editable.lua to allow triggering custom on-duty/off-duty events",
-        "Improved server-side status synchronization to ensure consistent state across all medic tablets"
+        "Added EDITABLE.OnStatusChange hook in editable.lua for custom on-duty/off-duty events",
+        "Added Config.ShowOnScreenAlerts setting to toggle duplicate MDT native dispatch UI notifications",
+        "Fixed Invoice creation failures on QBCore/QBox frameworks",
+        "Improved server-side status synchronization to ensure a consistent state across all medic tablets"
     ]
 }
