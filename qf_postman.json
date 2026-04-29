@@ -1,6 +1,11 @@
 {
-    "version": "1.1.2",
+    "version": "1.1.3",
     "descriptions": [
-        "Fixed 'Column identifier cannot be null' MySQL errors by adding missing identifier to the framework bridge for ESX, QBCore, and QBox"
+        "Implemented server-side authoritative payment system with lobby tracking to prevent reward exploitation",
+        "Significant client-side performance optimizations for distance-check loops and object pool searching",
+        "Fixed 'ShowHelpNotification' and [E] key interaction spamming during newspaper delivery",
+        "Resolved duplicate configuration entries in config.lua and fixed potential nil pointer errors in the quitWork function",
+        "Improved multiplayer synchronization for team salaries and lobby states between client and server",
+        "Fixed mission stop indexing logic to ensure correct delivery flow"
     ]
 }
