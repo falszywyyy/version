@@ -3,6 +3,6 @@
     "descriptions": [
         "Added compatibility with ox_inventory",
         "Added new usable items to improve user experience",
-        "Refactored functions accorded to items registration."
+        "Refactored functions accorded to items registration"
     ]
 }
