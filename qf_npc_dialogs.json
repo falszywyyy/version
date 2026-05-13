@@ -1,9 +1,7 @@
 {
-    "version": "1.0.1",
+    "version": "1.1.0",
     "descriptions": [
-        "Added support for conditional dialog options (options can now be hidden based on a Lua function)",
-        "Implemented dynamic dialog branching where nextDialog can be a function returning a dialog ID",
-        "Added standalone-friendly examples (e.g., Health Check) and Server Event documentation to Config",
-        "Improved client logic to filter hidden options before sending to NUI"
+        "Added NPCs not spawning at the coordinates provided in the configuration",
+        "Fixed the issue where the NPC would remain visible even after being despawned"
     ]
 }
