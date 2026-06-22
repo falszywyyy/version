@@ -1,8 +1,7 @@
 {
-    "version": "1.3.0",
+    "version": "1.4.0",
     "descriptions": [
-        "Added compatibility with ox_inventory",
-        "Added new usable items to improve user experience",
-        "Refactored functions accorded to items registration"
+        "Added SSN-based citizen search support via configurable database column",
+        "Added server-side invoice security system with grade limits, distance check and cooldown"
     ]
 }
