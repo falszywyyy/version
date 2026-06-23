@@ -1,5 +1,5 @@
 {
-    "version": "1.4.0",
+    "version": "1.5.0",
     "descriptions": [
         "Added SSN-based citizen search support via configurable database column",
         "Added server-side invoice security system with grade limits, distance check and cooldown"
