@@ -1,7 +1,12 @@
 {
-    "version": "1.5.0",
+    "version": "1.7.1",
     "descriptions": [
-        "Added SSN-based citizen search support via configurable database column",
-        "Added server-side invoice security system with grade limits, distance check and cooldown"
+        "Completely overhauled the Dispatch System",
+        "Added protection against spam in the FastGPS feature",
+        "Added the ability to set a blip on a regular map outside the MDT map",
+        "Fixed several reported bugs",
+        "Improved the behavior of the status system and its refresh mechanism",
+        "Fixed radar notifications",
+        "Improved configuration consistency"
     ]
 }
