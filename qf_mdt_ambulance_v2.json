@@ -1,12 +1,9 @@
 {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "descriptions": [
-        "Added shared database tables (Config.Base) so multiple tablet resources can run side by side and sync selected data between factions",
-        "Added a dedicated keybind (QuickOpen) to open the MDT straight on the Dispatch tab",
-        "Added a fine details modal to preview all charges of a multi-item fine",
-        "Fine drafts now persist when the MDT is closed and reopened",
-        "Fixed a pedheadshot slot leak that caused mugshots to fail after repeated use",
-        "Synchronized new translation keys across all 9 supported languages",
-        "Improved configuration consistency"
+        "Fixed prescriptions being added to the issuing medic's inventory instead of the citizen — the patient now correctly receives the prescription item",
+        "Fixed prescription redemption at the pharmacy on non-ox setups so the prescription item is removed and medications are granted correctly across all supported inventories",
+        "Added QBox parity to the pharmacy prescription redemption flow",
+        "Added clear feedback when a prescription cannot be delivered because the citizen is offline"
     ]
 }

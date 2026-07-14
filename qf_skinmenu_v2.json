@@ -1,6 +1,9 @@
 {
-    "version": "1.1.5",
+    "version": "1.1.6",
     "descriptions": [
-        "Script release"
+        "Fixed newly created female characters always spawning with the default male model in the creation menu; the creator now initializes its internal gender state (not just the ped model) so changing hair, face or clothes no longer reverts the character back to male",
+        "Added a startCharacter export and a { gender } option on the qf_skinmenu_v2:openCreationMenu event to pass the gender explicitly when opening the creator",
+        "Added automatic gender detection from the framework PlayerData (QBCore/Qbox charinfo.gender, ESX sex) when no gender is passed",
+        "Fixed the default skin being mutated by reference during creation"
     ]
 }
