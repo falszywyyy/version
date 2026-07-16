@@ -1,6 +1,6 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "descriptions": [
-        "The chosen gender is now passed to Skin Menu [V2] when opening the appearance creator for a new character, so female characters are created with the correct model on both QBCore and Qbox (including useExternalCharacters = true)"
+        "Fixed reported issues with QBCore and QBOX"
     ]
 }
