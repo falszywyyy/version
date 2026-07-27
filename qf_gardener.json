@@ -1,11 +1,6 @@
 {
-    "version": "3.2.0",
+    "version": "3.2.1",
     "descriptions": [
-        "Implemented customizable HUD Editor in the Lobby menu with drag-and-drop functionality for HUD elements",
-        "Added local storage persistence ensuring user layout preferences are saved across sessions",
-        "Optimized HUD visibility logic to automatically hide progress bars when menus (Lobby/Editor) are active",
-        "Restyled UI Editor interface to match the resource's design theme, converting buttons to custom elements for consistent font rendering",
-        "Fixed NUI callback error qf:gardener:focus:on ensuring smooth transition when closing the editor",
-        "Fixed hardcoded strings in Job Lobby and Interaction prompts for full multi-language support"
+        "Fixed ox_target script error when a job requirement was set in the config"
     ]
 }
