@@ -1,8 +1,7 @@
 {
-    "version": "3.1.1",
+    "version": "3.1.2",
     "descriptions": [
-        "Fixed issues with auto waypoints",
-        "Added support for new quest types",
-        "Improved performance and stability"
+        "Fixed ox_target script error when a job requirement was set in the config",
+        "Job check now uses client-side PlayerData (works on all frameworks incl. VRP)"
     ]
 }
