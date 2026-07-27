@@ -1,6 +1,7 @@
 {
-    "version": "1.1.6",
+    "version": "1.1.7",
     "descriptions": [
-        "Fixed issue with config/default_data.lua"
+        "Fixed Qbox not being detected by the framework check",
+        "Improved Qbox compatibility"
     ]
 }
