@@ -1,9 +1,8 @@
 {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "descriptions": [
-        "Fixed prescriptions being added to the issuing medic's inventory instead of the citizen — the patient now correctly receives the prescription item",
-        "Fixed prescription redemption at the pharmacy on non-ox setups so the prescription item is removed and medications are granted correctly across all supported inventories",
-        "Added QBox parity to the pharmacy prescription redemption flow",
-        "Added clear feedback when a prescription cannot be delivered because the citizen is offline"
+        "Fixed the resource staying completely inactive on Qbox without any console error because framework detection checked for a resource named qbx-core instead of qbx_core",
+        "Fixed job data, death detection and revive handling not working for Qbox servers as a result of the failed framework detection",
+        "Fixed useable item registration using the same incorrect resource name in its fallback path"
     ]
 }

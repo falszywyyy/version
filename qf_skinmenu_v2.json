@@ -1,7 +1,9 @@
 {
-    "version": "1.1.9",
+    "version": "1.2.0",
     "descriptions": [
-        "Fixed the menu getting stuck on servers without a playerskins table",
-        "Improved Qbox compatibility"
+        "Fixed saved appearances never being applied on Qbox because the core object was only looked up in qb-core",
+        "Unified all appearance reads and writes into a single guarded path so a missing playerskins table no longer breaks skin saving",
+        "Reduced database load by checking the playerskins table once instead of on every appearance load",
+        "Added a clear console warning naming the SQL to import when the playerskins table is missing"
     ]
 }

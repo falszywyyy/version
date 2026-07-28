@@ -1,6 +1,6 @@
 {
-    "version": "3.2.1",
+    "version": "3.2.2",
     "descriptions": [
-        "Fixed ox_target script error when a job requirement was set in the config"
+        "Fixed the job staying inactive on Qbox because framework detection and the core object lookup both used qbx-core instead of qbx_core"
     ]
 }

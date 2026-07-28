@@ -1,12 +1,7 @@
 {
-    "version": "1.8.0",
+    "version": "1.8.1",
     "descriptions": [
-        "Added shared database tables (Config.Base) so multiple tablet resources can run side by side and sync selected data between factions",
-        "Added a dedicated keybind (QuickOpen) to open the MDT straight on the Dispatch tab",
-        "Added a fine details modal to preview all charges of a multi-item fine",
-        "Fine drafts now persist when the MDT is closed and reopened",
-        "Fixed a pedheadshot slot leak that caused mugshots to fail after repeated use",
-        "Synchronized new translation keys across all 9 supported languages",
-        "Improved configuration consistency"
+        "Fixed the resource staying completely inactive on Qbox without any console error because framework detection checked for a resource named qbx-core instead of qbx_core",
+        "Fixed useable item registration using the same incorrect resource name in its fallback path"
     ]
 }

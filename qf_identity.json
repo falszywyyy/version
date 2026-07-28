@@ -1,11 +1,7 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "descriptions": [
-        "Fixed the script not starting on Qbox (Failed to get QBCore/QBOX shared object)",
-        "Fixed characters disappearing after relog on Qbox",
-        "Fixed mugshots not saving on Qbox",
-        "Fixed character name and Discord not showing in the admin panel on Qbox",
-        "Fixed slots unlocked in the admin panel not applying in game on Qbox",
-        "Fixed character creation skipping the skin menu when Config.SkinManager was set to 'qf_skinmenu_v2'"
+        "Fixed character deletion silently failing on Qbox because the cleanup aborted on the qb-core only tables player_houses and player_contacts",
+        "Fixed the character list refusing to load when the playerskins table is not present on the server"
     ]
 }
