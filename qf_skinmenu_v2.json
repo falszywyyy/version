@@ -1,9 +1,10 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "descriptions": [
-        "Fixed saved appearances never being applied on Qbox because the core object was only looked up in qb-core",
-        "Unified all appearance reads and writes into a single guarded path so a missing playerskins table no longer breaks skin saving",
-        "Reduced database load by checking the playerskins table once instead of on every appearance load",
-        "Added a clear console warning naming the SQL to import when the playerskins table is missing"
+        "Fixed appearances never being written to the database on Qbox because the save was dropped when the framework player-loaded event had not warmed the identifier cache",
+        "Fixed players spawning with a default freemode ped until they opened the menu, by reapplying the stored appearance right after the spawn is chosen",
+        "Added automatic creation of the playerskins table so appearances can be stored on servers that run this resource without a separate clothing resource",
+        "Unified all appearance reads and writes into a single guarded path and check the playerskins table once instead of on every load",
+        "Added a reloadSkin export used by the spawn selector to reapply the stored appearance"
     ]
 }
