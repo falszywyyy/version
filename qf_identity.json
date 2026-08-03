@@ -1,5 +1,5 @@
 {
-    "version": "1.2.4",
+    "version": "1.3.0",
     "descriptions": [
         "Fixed dependent resources (HUD, phone, job scripts) never initialising on Qbox because the core does not emit its player-loaded event when login is driven by an external character selector, so the resource now emits it when the core stays silent",
         "Fixed the was not safe for net console spam by emitting the client player-loaded event locally instead of over the network",
