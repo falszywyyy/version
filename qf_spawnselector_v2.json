@@ -1,5 +1,5 @@
 {
-    "version": "1.2.0",
+    "version": "1.2.1",
     "descriptions": [
         "Fixed the player keeping the default freemode ped after choosing a spawn on QB/Qbox by reapplying the stored appearance once the spawn is picked",
         "Fixed the spawn list, paid spawns and admin panel resolving the framework core through a single shared resolver that supports both qbx_core and qb-core",
