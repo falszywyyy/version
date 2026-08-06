@@ -1,5 +1,5 @@
 {
-    "version": "1.3.0",
+    "version": "1.3.1",
     "descriptions": [
         "Fixed appearances never being written to the database on Qbox because the save was dropped when the framework player-loaded event had not warmed the identifier cache",
         "Fixed players spawning with a default freemode ped until they opened the menu, by reapplying the stored appearance right after the spawn is chosen",
