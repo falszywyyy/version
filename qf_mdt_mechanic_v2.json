@@ -1,7 +1,6 @@
 {
-    "version": "1.8.1",
+    "version": "1.8.2",
     "descriptions": [
-        "Fixed the resource staying completely inactive on Qbox without any console error because framework detection checked for a resource named qbx-core instead of qbx_core",
-        "Fixed useable item registration using the same incorrect resource name in its fallback path"
+        "Script release"
     ]
 }
