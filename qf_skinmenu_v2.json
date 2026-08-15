@@ -1,12 +1,10 @@
 {
-    "version": "1.3.2",
+    "version": "1.4.0",
     "descriptions": [
-        "Fixed the Cancel and Load Outfit footer buttons ignoring the selected language, because the client looked up the keys Cancel and Load Outfit while the language files define cancel and loadFit",
-        "Added nine keys the interface requested but no language file defined, including wardrobe_list, save, saving, wardrobeExitSelect and deleteSelectedOutfits, which until now printed the raw key",
-        "Fixed the outfit_limit_reached, saveFitError and skin_reset_success notifications rendering their key instead of a message",
-        "Fixed the missing default skin error and the admin panel permission refusal being hardcoded English, both now resolve through _L",
-        "Fixed shop blips, target labels and the [E] prompt using untranslated Config.ShopBlips labels, while custom labels set in the admin panel are left untouched",
-        "Translated the camera preset panel in all nine languages, it had been copied from en.lua and never localised",
-        "Translated the remaining English values in the German, Polish, Spanish, French, Italian, Portuguese, Japanese and Korean files"
+        "Added an image generator in the admin panel that photographs every clothing item on your own server, so previews match the EUP and addon packs the QF CDN does not carry",
+        "Added Config.ImageSource hybrid, which serves locally generated images first and falls back to the CDN for each tile that has none",
+        "Fixed grid tiles rendering empty when an image was missing, they now fall back to the remote source and then to the item name",
+        "Added an images admin tab permission, manageable per rank, with audit entries for starting, finishing and resetting a generation run",
+        "Added config/image_generator.lua outside escrow, holding the studio location, output mode and the camera preset for every slot"
     ]
 }
