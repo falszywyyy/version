@@ -1,7 +1,19 @@
 {
-    "version": "1.8.1",
+    "version": "1.10.0",
     "descriptions": [
-        "Fixed the resource staying completely inactive on Qbox without any console error because framework detection checked for a resource named qbx-core instead of qbx_core",
-        "Fixed useable item registration using the same incorrect resource name in its fallback path"
+        "Added a call life cycle, new to accepted to on scene to closed with a closing reason, configured under Config.Dispatch.Lifecycle",
+        "Added Config.Dispatch.Priorities, which drives the chip colour, list sorting, blip scale and the sound played when an alert arrives",
+        "Added the live map beside the call list on /dispatch/alerts, with focus in both directions between a card and its pin",
+        "Added quick actions on the on-screen alert under Config.Dispatch.QuickActions, GPS stays on the existing FastGPS key",
+        "Added Create call in the tablet under Config.Dispatch.CreateCall, with grade gates checked on the server as well as in the interface",
+        "Added caller details and attachments under Config.Dispatch.Calls, plus a CreateCitizenCall export for phone and panic button resources",
+        "Added the archive under Config.Dispatch.History, writing to qf_mdt_police_v2_dispatch_calls and qf_mdt_police_v2_dispatch_call_officers, both created automatically on first start",
+        "Added a sidebar counter of unassigned calls under Config.Dispatch.SidebarBadge",
+        "Added Font Awesome icons inside map pins, set per type in Config.Map.AlertSettings or per call through the new icon field",
+        "Added police station icons and ring colours under Config.Map.PoliceStationDefaults",
+        "Added the officer commands /panic and /location under Config.Dispatch.OfficerCommands, with name, badge and position read on the server so none of it can be spoofed",
+        "Added the civilian line /911 under Config.Dispatch.CitizenCalls, rate limited on cooldown, per-session cap, repeated text and another call already made nearby",
+        "Changed the react counter into a real assignment, the old dispatch/alerts/react endpoint still works and maps onto it, set Config.Dispatch.Lifecycle.enabled to false to keep the 1.9.x behaviour",
+        "Removed server/dispatch-compatibility.lua from escrow_ignore so it can be edited, with a copy-paste template at the top of the file"
     ]
 }
