@@ -1,10 +1,6 @@
 {
-    "version": "1.4.0",
+    "version": "1.4.1",
     "descriptions": [
-        "Added an image generator in the admin panel that photographs every clothing item on your own server, so previews match the EUP and addon packs the QF CDN does not carry",
-        "Added Config.ImageSource hybrid, which serves locally generated images first and falls back to the CDN for each tile that has none",
-        "Fixed grid tiles rendering empty when an image was missing, they now fall back to the remote source and then to the item name",
-        "Added an images admin tab permission, manageable per rank, with audit entries for starting, finishing and resetting a generation run",
-        "Added config/image_generator.lua outside escrow, holding the studio location, output mode and the camera preset for every slot"
+        "Fixed female characters created through qf_identity being saved as male with Config.OpenMenuOnFirstJoin = true, because the creation gender was skipped while the first join menu was already open"
     ]
 }

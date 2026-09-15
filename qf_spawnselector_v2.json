@@ -1,8 +1,7 @@
 {
-    "version": "1.2.1",
+    "version": "1.2.2",
     "descriptions": [
-        "Fixed the player keeping the default freemode ped after choosing a spawn on QB/Qbox by reapplying the stored appearance once the spawn is picked",
-        "Fixed the spawn list, paid spawns and admin panel resolving the framework core through a single shared resolver that supports both qbx_core and qb-core",
-        "Improved standalone behaviour so servers without a framework no longer trigger a framework error in the console"
+        "Fixed players keeping god mode after spawning with Config.CinematicSpawn.enabled = false, because only the cinematic path cleared invincibility",
+        "Fixed spawn labels and descriptions skipping translation when the spawn list was synced to an open selector"
     ]
 }
