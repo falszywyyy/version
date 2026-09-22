@@ -1,12 +1,9 @@
 {
-    "version": "1.3.4",
+    "version": "1.3.5",
     "descriptions": [
-        "Fixed female characters spawning as male with Config.SkinManager = 'esx_skin', because the chosen gender never reached skinchanger and esx_skin saved sex 0",
-        "Fixed existing characters logging in with the default skinchanger appearance on ESX with esx_skin, because their saved skin was never loaded before ESX.SpawnPlayer",
-        "Fixed the intro cutscene applying the previously viewed character's skin to a new character and saving its mugshot under that character",
-        "Fixed Escape on the date picker or nationality list cancelling character creation",
-        "Fixed overlapping fades and load scenes when going back or opening a new slot while the selection camera was still loading",
-        "Fixed the date picker ignoring the month names, weekday names and StartOfWeek from Config.Calendar",
-        "Added an optional storedSkin argument to Bridge.SpawnPlayer"
+        "Fixed /relog not saving where the character was standing, so the character came back at the position of the last disconnect",
+        "Fixed the position being left entirely to the logout save of the core, which es_extended skips whenever xPlayer.spawned was never set",
+        "Fixed the heading being dropped from the saved position on qb-core",
+        "Fixed a character picked within a second of a relog being unloaded again by the ESX cleanup fallback, which left that player without any save until the next restart"
     ]
 }
