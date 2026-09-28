@@ -1,7 +1,7 @@
 {
-    "version": "1.2.2",
+    "version": "1.2.3",
     "descriptions": [
-        "Fixed players keeping god mode after spawning with Config.CinematicSpawn.enabled = false, because only the cinematic path cleared invincibility",
-        "Fixed spawn labels and descriptions skipping translation when the spawn list was synced to an open selector"
+        "Fixed Last Location after /relog pointing at the previous character's position",
+        "qf_spawnselector_v2:open now accepts the saved position as an optional second argument, passed by qf_identity 1.3.6"
     ]
 }

@@ -1,9 +1,8 @@
 {
-    "version": "1.3.5",
+    "version": "1.3.6",
     "descriptions": [
-        "Fixed /relog not saving where the character was standing, so the character came back at the position of the last disconnect",
-        "Fixed the position being left entirely to the logout save of the core, which es_extended skips whenever xPlayer.spawned was never set",
-        "Fixed the heading being dropped from the saved position on qb-core",
-        "Fixed a character picked within a second of a relog being unloaded again by the ESX cleanup fallback, which left that player without any save until the next restart"
+        "Fixed the next character spawning where the previous one logged out (or at the airport) after /relog on ESX",
+        "Fixed the spawn position and death state being read from the previous character's client PlayerData right after a relog",
+        "The loaded character's saved position is now passed to qf_spawnselector_v2 as Last Location (update qf_spawnselector_v2 to 1.2.3)"
     ]
 }
