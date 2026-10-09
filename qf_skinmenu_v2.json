@@ -1,6 +1,8 @@
 {
-    "version": "1.4.1",
+    "version": "1.4.2",
     "descriptions": [
-        "Fixed female characters created through qf_identity being saved as male with Config.OpenMenuOnFirstJoin = true, because the creation gender was skipped while the first join menu was already open"
+        "Fixed a character showing up in the previous character's clothes after /relog",
+        "Fixed the server skin and outfit cache handing the previous character's data to the next one after a relog",
+        "Fixed the client layering the new character's skin on top of the previous character's skin"
     ]
 }
