@@ -1,6 +1,15 @@
 {
-    "version": "1.8.2",
+    "version": "1.10.2",
     "descriptions": [
-        "Script release"
+        "Fixed citizen search timing out after 15000 ms when a query failed or Config.Licenses did not match the framework",
+        "Fixed tablet requests hanging until the timeout on server errors, the real error is now shown in the server console",
+        "Fixed citizen profile and nearby citizens failing when the license table is missing",
+        "Improved citizen search speed",
+        "Fixed the tablet ignoring the player's chosen language",
+        "Fixed on-duty hours being lost on resource restart",
+        "Fixed announcements not refreshing for other workers",
+        "Fixed sidebar groups closing on their own",
+        "Fixed duplicate map tracking loops",
+        "Improved server-side validation of gallery photos, profile images and statuses"
     ]
 }

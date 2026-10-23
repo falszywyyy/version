@@ -1,8 +1,17 @@
 {
-    "version": "1.8.2",
+    "version": "1.10.2",
     "descriptions": [
-        "Fixed the resource staying completely inactive on Qbox without any console error because framework detection checked for a resource named qbx-core instead of qbx_core",
-        "Fixed job data, death detection and revive handling not working for Qbox servers as a result of the failed framework detection",
-        "Fixed useable item registration using the same incorrect resource name in its fallback path"
+        "Fixed citizen search timing out after 15000 ms when a query failed or Config.Licenses did not match the framework",
+        "Fixed tablet requests hanging until the timeout on server errors, the real error is now shown in the server console",
+        "Fixed citizen profile and nearby citizens failing when the license table is missing",
+        "Improved citizen search speed",
+        "Fixed the tablet ignoring the player's chosen language",
+        "Fixed on-duty hours being lost on resource restart",
+        "Fixed announcements not refreshing for other workers",
+        "Fixed sidebar groups closing on their own",
+        "Fixed duplicate map tracking loops",
+        "Improved server-side validation of gallery photos, profile images and statuses",
+        "Fixed medical history and tag audit logs missing their author",
+        "Improved stability, a page error no longer closes the whole tablet"
     ]
 }

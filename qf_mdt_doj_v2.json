@@ -1,0 +1,8 @@
+{
+    "version": "2.1.1",
+    "descriptions": [
+        "Fixed citizen search timing out after 15000 ms when a query failed or Config.Licenses did not match the framework",
+        "Fixed tablet requests hanging until the timeout on server errors, the real error is now shown in the server console",
+        "Fixed citizen profile and nearby citizens failing when the license table is missing"
+    ]
+}
